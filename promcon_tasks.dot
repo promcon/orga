@@ -1,0 +1,208 @@
+digraph PromCon {
+  //splines="FALSE";
+  rankdir=BT;
+
+  /* Entities */
+  start [label="Start", shape=doublecircle]
+  done [label="Done", shape=doublecircle]
+
+  determine_dates [label="Determine dates"]
+  determine_venue [label="Find venue"]
+
+  create_event_website [label="Create yearly website section"]
+
+  define_sponsorship_conditions [label="Define sponsorship conditions"]
+  add_sponsorship_website [label="Add sponsorship conditions to website"]
+  acquire_sponsors [label="Acquire sponsors"]
+  close_sponsors [label="Close sponsors"]
+  list_sponsors [label="List sponsors on website"]
+  tweet_sponsors_before [label="Tweet-thank sponsors before event"]
+  tweet_sponsors_after [label="Tweet-thank sponsors after event"]
+
+  create_cfp_form [label="Create CfP form"]
+  announce_cfp [label="Announce CfP"]
+  evaluate_talks [label="Evaluate talks"]
+  select_talks [label="Select talks"]
+  confirm_talks [label="Confirm talks with speakers"]
+  build_schedule [label="Build schedule"]
+  website_schedule [label="Add schedule to website"]
+
+  design_schedule_flyer [label="Design schedule flyer"]
+  order_schedule_flyer [label="Order schedule flyer"]
+
+  set_up_registration [label="Set up registration system"]
+  announce_registration [label="Announce registration"]
+  handle_registration [label="Handle registration"]
+
+  organize_venue_food [label="Organize venue catering"]
+  organize_after_party [label="Organize after-party"]
+  clarify_venue_access [label="Clarify venue access/security"]
+  booth_decisions [label="Determine sponsor booth style/placement"]
+  transport_materials [label="Transport materials to venue"]
+  set_up_materials [label="Set up materials at venue"]
+
+  conduct_event [label="Conduct event"]
+
+  post_event_blog_post [label="Post-event blog post"]
+  pre_event_email [label="Pre-event email"]
+  post_event_email [label="Post-event email"]
+  heralding_schedule [label="Build heralding schedule"]
+  tweeting_schedule [label="Build tweeting schedule"]
+  registration_desk_schedule [label="Build reg-desk schedule"]
+
+  create_diversity_form [label="Create diversity scholarship form"]
+  announce_diversity [label="Announce diversity scholarship"]
+  select_diversity [label="Select diversity awardees"]
+  confirm_diversity [label="Confirm diversity awardees"]
+  diversity_comms [label="Various diversity attendee comms"]
+  diversity_visas [label="Handle diversity visas"]
+  diversity_accommodation [label="Help book diversity accommodation"]
+  diversity_reimbursements [label="Handle diversity reimbursements"]
+
+  design_stage_signage [label="Design stage signage"]
+  order_stage_signage [label="Order stage signage"]
+  design_bags [label="Design bags"]
+  order_bags [label="Order bags"]
+  order_stickers [label="Order stickers"]
+  design_tshirts [label="Design T-shirts"]
+  order_tshirts [label="Order T-shirts"]
+  order_badges [label="Order badges"]
+  verify_badges [label="Verify/fix badges"]
+  build_registration_desk_sheet [label="Build registration desk spreadsheet"]
+
+  contract_video_company [label="Contract video company"]
+  clarify_video_reqs [label="Clarify video requirements"]
+  verify_venue_video [label="Verify venue video support"]
+  support_video_postprocessing [label="Support video post-processing"]
+  upload_videos [label="Upload videos"]
+  add_video_metadata [label="Add video metadata"]
+  publish_videos [label="Publish videos"]
+
+  collect_slides [label="Collect talk slides from speakers"]
+  add_slides_to_website [label="Add slides to website"]
+  add_slides_to_videos [label="Add slides to videos"]
+
+  create_feedback_form [label="Create feedback form"]
+  publish_feedback_form [label="Publish feedback form"]
+
+  /* Relationships */
+  determine_dates -> start
+  determine_venue -> start
+
+  design_bags -> start
+  design_tshirts -> start
+
+  create_event_website -> determine_dates
+  create_event_website -> determine_venue
+
+  add_sponsorship_website -> define_sponsorship_conditions
+  add_sponsorship_website -> create_event_website
+  acquire_sponsors -> add_sponsorship_website
+  close_sponsors -> acquire_sponsors
+  list_sponsors -> close_sponsors
+  tweet_sponsors_before -> close_sponsors
+  tweet_sponsors_after -> conduct_event
+
+  create_cfp_form -> determine_dates
+  create_cfp_form -> determine_venue
+  announce_cfp -> create_cfp_form
+  evaluate_talks -> announce_cfp
+  select_talks -> evaluate_talks
+  confirm_talks -> select_talks
+  build_schedule -> confirm_talks
+  website_schedule -> build_schedule
+
+  design_schedule_flyer -> build_schedule
+  design_schedule_flyer -> organize_after_party // Because map goes in there.
+  order_schedule_flyer -> design_schedule_flyer
+
+  set_up_registration -> determine_dates
+  set_up_registration -> determine_venue
+  announce_registration -> set_up_registration
+  announce_registration -> create_event_website
+  handle_registration -> announce_registration
+
+  organize_venue_food -> determine_venue
+  organize_venue_food -> determine_dates
+  organize_venue_food -> build_schedule
+  organize_after_party -> determine_venue
+  organize_after_party -> determine_dates
+  clarify_venue_access -> determine_venue
+  clarify_venue_access -> determine_dates
+  booth_decisions -> determine_venue
+
+  pre_event_email -> handle_registration
+  pre_event_email -> website_schedule
+
+  design_stage_signage -> close_sponsors
+  order_stage_signage -> design_stage_signage
+  order_bags -> design_bags
+  order_tshirts -> design_tshirts
+  order_badges -> handle_registration
+  verify_badges -> order_badges
+  build_registration_desk_sheet -> handle_registration
+
+  contract_video_company -> determine_venue
+  contract_video_company -> determine_dates
+  clarify_video_reqs -> contract_video_company
+  verify_venue_video -> clarify_video_reqs
+
+  transport_materials -> verify_badges
+  transport_materials -> order_bags
+  transport_materials -> order_schedule_flyer
+  transport_materials -> order_stage_signage
+  transport_materials -> order_stickers
+  transport_materials -> order_tshirts
+  set_up_materials -> transport_materials
+  set_up_materials -> booth_decisions
+
+  create_diversity_form -> create_event_website
+  announce_diversity -> create_diversity_form
+  select_diversity -> close_sponsors
+  select_diversity -> announce_diversity
+  confirm_diversity -> select_diversity
+  diversity_comms -> confirm_diversity
+  diversity_visas -> confirm_diversity
+  diversity_accommodation -> confirm_diversity
+  diversity_reimbursements -> confirm_diversity
+
+  conduct_event -> set_up_materials
+  conduct_event -> organize_venue_food
+  conduct_event -> organize_after_party
+  conduct_event -> clarify_venue_access
+  conduct_event -> list_sponsors
+  conduct_event -> tweet_sponsors_before
+  conduct_event -> website_schedule
+  conduct_event -> pre_event_email
+  conduct_event -> heralding_schedule
+  conduct_event -> tweeting_schedule
+  conduct_event -> registration_desk_schedule
+  conduct_event -> verify_venue_video
+  conduct_event -> build_registration_desk_sheet
+  conduct_event -> diversity_accommodation
+  conduct_event -> diversity_visas
+  conduct_event -> diversity_comms
+
+  create_feedback_form -> conduct_event
+  publish_feedback_form -> create_feedback_form
+
+  support_video_postprocessing -> conduct_event
+  upload_videos -> support_video_postprocessing
+  add_video_metadata -> upload_videos
+  publish_videos -> add_video_metadata
+
+  collect_slides -> conduct_event
+  add_slides_to_videos -> collect_slides
+  add_slides_to_website -> collect_slides
+
+  post_event_blog_post -> publish_videos
+  post_event_email -> publish_videos
+  post_event_email -> publish_feedback_form
+
+  done -> post_event_blog_post
+  done -> post_event_email
+  done -> tweet_sponsors_after
+  done -> diversity_reimbursements
+  done -> add_slides_to_videos
+  done -> add_slides_to_website
+}
