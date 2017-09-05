@@ -91,6 +91,7 @@ digraph PromCon {
 
   design_bags -> start
   design_tshirts -> start
+  order_stickers -> start
 
   create_event_website -> determine_dates
   create_event_website -> determine_venue
