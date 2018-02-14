@@ -18,6 +18,7 @@ digraph PromCon {
   list_sponsors [label="List sponsors on website"]
   tweet_sponsors_before [label="Tweet-thank sponsors before event"]
   tweet_sponsors_after [label="Tweet-thank sponsors after event"]
+  sponsors_paid [labe="Verify sponsors have paid"]
 
   create_cfp_form [label="Create CfP form"]
   announce_cfp [label="Announce CfP"]
@@ -63,9 +64,12 @@ digraph PromCon {
   order_stage_signage [label="Order stage signage"]
   design_bags [label="Design bags"]
   order_bags [label="Order bags"]
+  design_stickers [label="Design stickers"]
   order_stickers [label="Order stickers"]
   design_tshirts [label="Design T-shirts"]
   order_tshirts [label="Order T-shirts"]
+  design_other_swag [label="Design other swag, optional"]
+  order_other_swag [label="Order other swag, optional"]
   order_badges [label="Order badges"]
   verify_badges [label="Verify/fix badges"]
   build_registration_desk_sheet [label="Build registration desk spreadsheet"]
@@ -77,6 +81,7 @@ digraph PromCon {
   upload_videos [label="Upload videos"]
   add_video_metadata [label="Add video metadata"]
   publish_videos [label="Publish videos"]
+  video_paid [label="Verify video team has been paid"]
 
   collect_slides [label="Collect talk slides from speakers"]
   add_slides_to_website [label="Add slides to website"]
@@ -85,17 +90,25 @@ digraph PromCon {
   create_feedback_form [label="Create feedback form"]
   publish_feedback_form [label="Publish feedback form"]
 
+  publishing_done [labe="Done with public work"]
+  accounts_settled [labe="Settled all accounts"]
+
+
+
   /* Relationships */
-  determine_dates -> start
   determine_venue -> start
+  determine_dates -> start
+  determine_dates -> determine_venue
 
   design_bags -> start
+  design_stickers -> start
   design_tshirts -> start
-  order_stickers -> start
+  design_other_swag -> start
 
   create_event_website -> determine_dates
   create_event_website -> determine_venue
 
+  define_sponsorship_conditions -> determine_venue
   add_sponsorship_website -> define_sponsorship_conditions
   add_sponsorship_website -> create_event_website
   acquire_sponsors -> add_sponsorship_website
@@ -103,6 +116,7 @@ digraph PromCon {
   list_sponsors -> close_sponsors
   tweet_sponsors_before -> close_sponsors
   tweet_sponsors_after -> conduct_event
+  close_sponsors -> sponsors_paid
 
   create_cfp_form -> determine_dates
   create_cfp_form -> determine_venue
@@ -113,6 +127,7 @@ digraph PromCon {
   build_schedule -> confirm_talks
   website_schedule -> build_schedule
 
+  registration_desk_schedule -> build_schedule
   design_schedule_flyer -> build_schedule
   design_schedule_flyer -> organize_after_party // Because map goes in there.
   order_schedule_flyer -> design_schedule_flyer
@@ -138,7 +153,9 @@ digraph PromCon {
   design_stage_signage -> close_sponsors
   order_stage_signage -> design_stage_signage
   order_bags -> design_bags
+  order_stickers -> design_stickers
   order_tshirts -> design_tshirts
+  order_other_swag -> design_other_swag
   order_badges -> handle_registration
   verify_badges -> order_badges
   build_registration_desk_sheet -> handle_registration
@@ -146,7 +163,9 @@ digraph PromCon {
   contract_video_company -> determine_venue
   contract_video_company -> determine_dates
   clarify_video_reqs -> contract_video_company
+  clarify_video_reqs -> clarify_venue_access
   verify_venue_video -> clarify_video_reqs
+  video_paid -> contract_video_company
 
   transport_materials -> verify_badges
   transport_materials -> order_bags
@@ -154,6 +173,7 @@ digraph PromCon {
   transport_materials -> order_stage_signage
   transport_materials -> order_stickers
   transport_materials -> order_tshirts
+  transport_materials -> order_other_swag
   set_up_materials -> transport_materials
   set_up_materials -> booth_decisions
 
@@ -191,19 +211,37 @@ digraph PromCon {
   upload_videos -> support_video_postprocessing
   add_video_metadata -> upload_videos
   publish_videos -> add_video_metadata
+  publish_videos -> video_paid
 
   collect_slides -> conduct_event
   add_slides_to_videos -> collect_slides
+  add_slides_to_videos -> upload_videos
   add_slides_to_website -> collect_slides
 
   post_event_blog_post -> publish_videos
+  post_event_blog_post -> publish_feedback_form
   post_event_email -> publish_videos
   post_event_email -> publish_feedback_form
 
-  done -> post_event_blog_post
-  done -> post_event_email
-  done -> tweet_sponsors_after
-  done -> diversity_reimbursements
-  done -> add_slides_to_videos
-  done -> add_slides_to_website
+
+  publishing_done -> post_event_blog_post
+  publishing_done -> post_event_email
+  publishing_done -> tweet_sponsors_after
+  publishing_done -> add_slides_to_videos
+  publishing_done -> add_slides_to_website
+
+  conference_reimbursements -> order_bags
+  conference_reimbursements -> order_schedule_flyer
+  conference_reimbursements -> order_stage_signage
+  conference_reimbursements -> order_stickers
+  conference_reimbursements -> order_tshirts
+  conference_reimbursements -> order_other_swag
+
+  accounts_settled -> diversity_reimbursements
+  accounts_settled -> video_paid
+  accounts_settled -> sponsors_paid
+  accounts_settled -> conference_reimbursements
+
+  done -> publishing_done
+  done -> accounts_settled
 }
