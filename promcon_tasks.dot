@@ -18,7 +18,7 @@ digraph PromCon {
   list_sponsors [label="List sponsors on website"]
   tweet_sponsors_before [label="Tweet-thank sponsors before event"]
   tweet_sponsors_after [label="Tweet-thank sponsors after event"]
-  sponsors_paid [labe="Verify sponsors have paid"]
+  sponsors_paid [label="Verify sponsors have paid"]
 
   create_cfp_form [label="Create CfP form"]
   announce_cfp [label="Announce CfP"]
@@ -90,8 +90,8 @@ digraph PromCon {
   create_feedback_form [label="Create feedback form"]
   publish_feedback_form [label="Publish feedback form"]
 
-  publishing_done [labe="Done with public work"]
-  accounts_settled [labe="Settled all accounts"]
+  publishing_done [label="Done with public work"]
+  accounts_settled [label="Settled all accounts"]
 
 
 
