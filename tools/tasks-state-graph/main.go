@@ -94,9 +94,9 @@ func main() {
 			// TODO: Mark the node as having a missing issue somehow!
 			continue
 		}
-		color := "chartreuse"
+		color := "coral"
 		if issue.State == "closed" {
-			color = "coral"
+			color = "chartreuse"
 		}
 
 		n.Attrs.Add("style", "filled")
