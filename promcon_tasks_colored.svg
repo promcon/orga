@@ -12,213 +12,216 @@
 <!-- determine_venue -->
 <g id="node1" class="node">
 <title>determine_venue</title>
-<g id="a_node1"><a xlink:href="https://github.com/prometheus/promcon/issues/34" xlink:title="Find venue">
-<ellipse fill="#7fff00" stroke="#000000" cx="2014.5859" cy="-1417.7947" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="2014.5859" y="-1414.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Find venue</text>
+<g id="a_node1"><a xlink:href="https://github.com/prometheus/promcon/issues/200" xlink:title="Find venue">
+<ellipse fill="#7fff00" stroke="#000000" cx="2004.5859" cy="-1417.7947" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="2004.5859" y="-1414.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Find venue</text>
 </a>
 </g>
 </g>
 <!-- start -->
 <g id="node2" class="node">
 <title>start</title>
-<ellipse fill="none" stroke="#000000" cx="3243.5859" cy="-1503.0923" rx="27.1222" ry="27.1222"/>
-<ellipse fill="none" stroke="#000000" cx="3243.5859" cy="-1503.0923" rx="31.0965" ry="31.0965"/>
-<text text-anchor="middle" x="3243.5859" y="-1499.3923" font-family="Times,serif" font-size="14.00" fill="#000000">Start</text>
+<g id="a_node2"><a xlink:href="https://github.com/prometheus/promcon/issues/197" xlink:title="Start">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3264.5859" cy="-1503.0923" rx="27.1222" ry="27.1222"/>
+<ellipse fill="none" stroke="#000000" cx="3264.5859" cy="-1503.0923" rx="31.0965" ry="31.0965"/>
+<text text-anchor="middle" x="3264.5859" y="-1499.3923" font-family="Times,serif" font-size="14.00" fill="#000000">Start</text>
+</a>
+</g>
 </g>
 <!-- determine_venue&#45;&gt;start -->
 <g id="edge1" class="edge">
 <title>determine_venue&#45;&gt;start</title>
-<path fill="none" stroke="#000000" d="M2063.9038,-1421.2176C2264.4143,-1435.1338 3016.5983,-1487.3384 3202.0598,-1500.2102"/>
-<polygon fill="#000000" stroke="#000000" points="3201.9935,-1503.7139 3212.2118,-1500.9148 3202.4782,-1496.7307 3201.9935,-1503.7139"/>
+<path fill="none" stroke="#000000" d="M2053.9794,-1421.1385C2258.1642,-1434.9611 3034.4571,-1487.5134 3223.0934,-1500.2834"/>
+<polygon fill="#000000" stroke="#000000" points="3222.9407,-1503.781 3233.1542,-1500.9645 3223.4135,-1496.7969 3222.9407,-1503.781"/>
 </g>
 <!-- determine_dates -->
 <g id="node3" class="node">
 <title>determine_dates</title>
-<g id="a_node3"><a xlink:href="https://github.com/prometheus/promcon/issues/33" xlink:title="Determine dates">
-<ellipse fill="#7fff00" stroke="#000000" cx="2233.5859" cy="-1345.7947" rx="68.7879" ry="18"/>
-<text text-anchor="middle" x="2233.5859" y="-1342.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Determine dates</text>
+<g id="a_node3"><a xlink:href="https://github.com/prometheus/promcon/issues/199" xlink:title="Determine dates">
+<ellipse fill="#7fff00" stroke="#000000" cx="2223.5859" cy="-1345.7947" rx="68.7879" ry="18"/>
+<text text-anchor="middle" x="2223.5859" y="-1342.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Determine dates</text>
 </a>
 </g>
 </g>
 <!-- determine_dates&#45;&gt;determine_venue -->
 <g id="edge3" class="edge">
 <title>determine_dates&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M2190.5799,-1359.9337C2153.4164,-1372.1518 2099.807,-1389.7768 2061.5359,-1402.3591"/>
-<polygon fill="#000000" stroke="#000000" points="2060.0727,-1399.1558 2051.6661,-1405.604 2062.259,-1405.8056 2060.0727,-1399.1558"/>
+<path fill="none" stroke="#000000" d="M2180.5799,-1359.9337C2143.4164,-1372.1518 2089.807,-1389.7768 2051.5359,-1402.3591"/>
+<polygon fill="#000000" stroke="#000000" points="2050.0727,-1399.1558 2041.6661,-1405.604 2052.259,-1405.8056 2050.0727,-1399.1558"/>
 </g>
 <!-- determine_dates&#45;&gt;start -->
 <g id="edge2" class="edge">
 <title>determine_dates&#45;&gt;start</title>
-<path fill="none" stroke="#000000" d="M2292.9953,-1355.0471C2478.5908,-1383.9518 3044.558,-1472.0956 3202.3533,-1496.6707"/>
-<polygon fill="#000000" stroke="#000000" points="3202.1547,-1500.1819 3212.5742,-1498.2625 3203.232,-1493.2653 3202.1547,-1500.1819"/>
+<path fill="none" stroke="#000000" d="M2283.2936,-1354.8167C2473.5299,-1383.5618 3062.3543,-1472.5346 3223.4701,-1496.8796"/>
+<polygon fill="#000000" stroke="#000000" points="3223.0445,-1500.3549 3233.4552,-1498.3883 3224.0904,-1493.4335 3223.0445,-1500.3549"/>
 </g>
 <!-- design_bags -->
 <g id="node4" class="node">
 <title>design_bags</title>
-<g id="a_node4"><a xlink:href="https://github.com/prometheus/promcon/issues/79" xlink:title="Design bags">
-<ellipse fill="#7fff00" stroke="#000000" cx="3202.5859" cy="-1417.7947" rx="53.8905" ry="18"/>
-<text text-anchor="middle" x="3202.5859" y="-1414.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design bags</text>
+<g id="a_node4"><a xlink:href="https://github.com/prometheus/promcon/issues/245" xlink:title="Design bags">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3209.5859" cy="-1417.7947" rx="53.8905" ry="18"/>
+<text text-anchor="middle" x="3209.5859" y="-1414.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design bags</text>
 </a>
 </g>
 </g>
 <!-- design_bags&#45;&gt;start -->
 <g id="edge4" class="edge">
 <title>design_bags&#45;&gt;start</title>
-<path fill="none" stroke="#000000" d="M3211.281,-1435.8841C3215.4203,-1444.4956 3220.5336,-1455.1336 3225.4614,-1465.3855"/>
-<polygon fill="#000000" stroke="#000000" points="3222.4147,-1467.1261 3229.9015,-1474.6227 3228.7237,-1464.0935 3222.4147,-1467.1261"/>
+<path fill="none" stroke="#000000" d="M3220.982,-1435.4684C3227.0998,-1444.9564 3234.8596,-1456.9907 3242.1318,-1468.2689"/>
+<polygon fill="#000000" stroke="#000000" points="3239.2019,-1470.1837 3247.5626,-1476.6914 3245.0849,-1466.3903 3239.2019,-1470.1837"/>
 </g>
 <!-- design_stickers -->
 <g id="node5" class="node">
 <title>design_stickers</title>
-<g id="a_node5"><a xlink:href="https://github.com/prometheus/promcon/issues/81" xlink:title="Design stickers">
-<ellipse fill="#7fff00" stroke="#000000" cx="3301.5859" cy="-1129.7947" rx="64.9885" ry="18"/>
-<text text-anchor="middle" x="3301.5859" y="-1126.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design stickers</text>
+<g id="a_node5"><a xlink:href="https://github.com/prometheus/promcon/issues/247" xlink:title="Design stickers">
+<ellipse fill="#7fff00" stroke="#000000" cx="3297.5859" cy="-1129.7947" rx="64.9885" ry="18"/>
+<text text-anchor="middle" x="3297.5859" y="-1126.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design stickers</text>
 </a>
 </g>
 </g>
 <!-- design_stickers&#45;&gt;start -->
 <g id="edge5" class="edge">
 <title>design_stickers&#45;&gt;start</title>
-<path fill="none" stroke="#000000" d="M3299.0995,-1147.9397C3295.5846,-1175.2045 3289.5859,-1228.3878 3289.5859,-1273.7947 3289.5859,-1273.7947 3289.5859,-1273.7947 3289.5859,-1345.7947 3289.5859,-1388.082 3274.0813,-1434.2865 3261.075,-1465.6065"/>
-<polygon fill="#000000" stroke="#000000" points="3257.8457,-1464.2566 3257.1386,-1474.8278 3264.2837,-1467.0048 3257.8457,-1464.2566"/>
+<path fill="none" stroke="#000000" d="M3296.9643,-1147.9775C3296.0856,-1175.2907 3294.5859,-1228.5349 3294.5859,-1273.7947 3294.5859,-1273.7947 3294.5859,-1273.7947 3294.5859,-1345.7947 3294.5859,-1386.3084 3284.8645,-1431.6691 3276.4895,-1463.23"/>
+<polygon fill="#000000" stroke="#000000" points="3273.0881,-1462.3998 3273.8317,-1472.9685 3279.8412,-1464.2429 3273.0881,-1462.3998"/>
 </g>
 <!-- design_tshirts -->
 <g id="node6" class="node">
 <title>design_tshirts</title>
-<g id="a_node6"><a xlink:href="https://github.com/prometheus/promcon/issues/83" xlink:title="Design T&#45;shirts">
-<ellipse fill="#7fff00" stroke="#000000" cx="3392.5859" cy="-1345.7947" rx="65.7887" ry="18"/>
-<text text-anchor="middle" x="3392.5859" y="-1342.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design T&#45;shirts</text>
+<g id="a_node6"><a xlink:href="https://github.com/prometheus/promcon/issues/249" xlink:title="Design T&#45;shirts">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3409.5859" cy="-1345.7947" rx="65.7887" ry="18"/>
+<text text-anchor="middle" x="3409.5859" y="-1342.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design T&#45;shirts</text>
 </a>
 </g>
 </g>
 <!-- design_tshirts&#45;&gt;start -->
 <g id="edge6" class="edge">
 <title>design_tshirts&#45;&gt;start</title>
-<path fill="none" stroke="#000000" d="M3376.071,-1363.2293C3351.0289,-1389.666 3303.1117,-1440.2516 3272.2867,-1472.7932"/>
-<polygon fill="#000000" stroke="#000000" points="3269.5592,-1470.5831 3265.2232,-1480.2501 3274.6412,-1475.397 3269.5592,-1470.5831"/>
+<path fill="none" stroke="#000000" d="M3393.2344,-1363.533C3368.8929,-1389.939 3322.7933,-1439.9482 3292.8983,-1472.3788"/>
+<polygon fill="#000000" stroke="#000000" points="3290.2447,-1470.0934 3286.0403,-1479.8183 3295.3916,-1474.8379 3290.2447,-1470.0934"/>
 </g>
 <!-- design_other_swag -->
 <g id="node7" class="node">
 <title>design_other_swag</title>
-<g id="a_node7"><a xlink:href="https://github.com/prometheus/promcon/issues/85" xlink:title="Design other swag, optional">
-<ellipse fill="#7fff00" stroke="#000000" cx="3528.5859" cy="-1417.7947" rx="110.4804" ry="18"/>
-<text text-anchor="middle" x="3528.5859" y="-1414.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design other swag, optional</text>
+<g id="a_node7"><a xlink:href="https://github.com/prometheus/promcon/issues/251" xlink:title="Design other swag, optional">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3566.5859" cy="-1417.7947" rx="110.4804" ry="18"/>
+<text text-anchor="middle" x="3566.5859" y="-1414.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design other swag, optional</text>
 </a>
 </g>
 </g>
 <!-- design_other_swag&#45;&gt;start -->
 <g id="edge7" class="edge">
 <title>design_other_swag&#45;&gt;start</title>
-<path fill="none" stroke="#000000" d="M3475.6475,-1433.6386C3420.0758,-1450.2707 3333.944,-1476.049 3283.7262,-1491.0787"/>
-<polygon fill="#000000" stroke="#000000" points="3282.4569,-1487.8051 3273.8803,-1494.0255 3284.464,-1494.5112 3282.4569,-1487.8051"/>
+<path fill="none" stroke="#000000" d="M3511.1945,-1433.4396C3451.3646,-1450.3381 3357.5156,-1476.845 3304.5136,-1491.815"/>
+<polygon fill="#000000" stroke="#000000" points="3303.467,-1488.4736 3294.7948,-1494.56 3305.3697,-1495.2101 3303.467,-1488.4736"/>
 </g>
 <!-- create_event_website -->
 <g id="node8" class="node">
 <title>create_event_website</title>
-<g id="a_node8"><a xlink:href="https://github.com/prometheus/promcon/issues/35" xlink:title="Create yearly website section">
-<ellipse fill="#7fff00" stroke="#000000" cx="1779.5859" cy="-1273.7947" rx="114.2798" ry="18"/>
-<text text-anchor="middle" x="1779.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create yearly website section</text>
+<g id="a_node8"><a xlink:href="https://github.com/prometheus/promcon/issues/201" xlink:title="Create yearly website section">
+<ellipse fill="#7fff00" stroke="#000000" cx="1769.5859" cy="-1273.7947" rx="114.2798" ry="18"/>
+<text text-anchor="middle" x="1769.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create yearly website section</text>
 </a>
 </g>
 </g>
 <!-- create_event_website&#45;&gt;determine_venue -->
 <g id="edge9" class="edge">
 <title>create_event_website&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M1809.6093,-1291.3764C1827.3977,-1301.8515 1850.3464,-1315.467 1870.5859,-1327.7947 1908.6918,-1351.0047 1952.0705,-1378.2269 1981.1696,-1396.6055"/>
-<polygon fill="#000000" stroke="#000000" points="1979.3974,-1399.6259 1989.7202,-1402.0111 1983.1379,-1393.7091 1979.3974,-1399.6259"/>
+<path fill="none" stroke="#000000" d="M1798.4015,-1291.4519C1841.8345,-1318.0661 1923.918,-1368.3642 1970.3422,-1396.8113"/>
+<polygon fill="#000000" stroke="#000000" points="1968.7744,-1399.9554 1979.1296,-1402.1959 1972.4317,-1393.9868 1968.7744,-1399.9554"/>
 </g>
 <!-- create_event_website&#45;&gt;determine_dates -->
 <g id="edge8" class="edge">
 <title>create_event_website&#45;&gt;determine_dates</title>
-<path fill="none" stroke="#000000" d="M1860.2289,-1286.5839C1946.8192,-1300.3163 2082.9398,-1321.9037 2164.6965,-1334.8695"/>
-<polygon fill="#000000" stroke="#000000" points="2164.2104,-1338.3361 2174.6352,-1336.4457 2165.3069,-1331.4225 2164.2104,-1338.3361"/>
+<path fill="none" stroke="#000000" d="M1850.2289,-1286.5839C1936.8192,-1300.3163 2072.9398,-1321.9037 2154.6965,-1334.8695"/>
+<polygon fill="#000000" stroke="#000000" points="2154.2104,-1338.3361 2164.6352,-1336.4457 2155.3069,-1331.4225 2154.2104,-1338.3361"/>
 </g>
 <!-- define_sponsorship_conditions -->
 <g id="node9" class="node">
 <title>define_sponsorship_conditions</title>
-<g id="a_node9"><a xlink:href="https://github.com/prometheus/promcon/issues/36" xlink:title="Define sponsorship conditions">
-<ellipse fill="#7fff00" stroke="#000000" cx="1743.5859" cy="-1345.7947" rx="118.0794" ry="18"/>
-<text text-anchor="middle" x="1743.5859" y="-1342.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Define sponsorship conditions</text>
+<g id="a_node9"><a xlink:href="https://github.com/prometheus/promcon/issues/202" xlink:title="Define sponsorship conditions">
+<ellipse fill="#7fff00" stroke="#000000" cx="1730.5859" cy="-1345.7947" rx="118.0794" ry="18"/>
+<text text-anchor="middle" x="1730.5859" y="-1342.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Define sponsorship conditions</text>
 </a>
 </g>
 </g>
 <!-- define_sponsorship_conditions&#45;&gt;determine_venue -->
 <g id="edge10" class="edge">
 <title>define_sponsorship_conditions&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M1802.3889,-1361.4176C1850.8286,-1374.2872 1918.7669,-1392.3372 1964.6116,-1404.5174"/>
-<polygon fill="#000000" stroke="#000000" points="1963.7665,-1407.9142 1974.3299,-1407.0994 1965.564,-1401.1489 1963.7665,-1407.9142"/>
+<path fill="none" stroke="#000000" d="M1790.0398,-1361.4176C1839.0157,-1374.2872 1907.7062,-1392.3372 1954.0584,-1404.5174"/>
+<polygon fill="#000000" stroke="#000000" points="1953.3231,-1407.9429 1963.8843,-1407.0994 1955.1022,-1401.1728 1953.3231,-1407.9429"/>
 </g>
 <!-- add_sponsorship_website -->
 <g id="node10" class="node">
 <title>add_sponsorship_website</title>
-<g id="a_node10"><a xlink:href="https://github.com/prometheus/promcon/issues/37" xlink:title="Add sponsorship conditions to website">
-<ellipse fill="#7fff00" stroke="#000000" cx="1674.5859" cy="-1201.7947" rx="147.5738" ry="18"/>
-<text text-anchor="middle" x="1674.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Add sponsorship conditions to website</text>
+<g id="a_node10"><a xlink:href="https://github.com/prometheus/promcon/issues/203" xlink:title="Add sponsorship conditions to website">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1639.5859" cy="-1201.7947" rx="147.5738" ry="18"/>
+<text text-anchor="middle" x="1639.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Add sponsorship conditions to website</text>
 </a>
 </g>
 </g>
 <!-- add_sponsorship_website&#45;&gt;create_event_website -->
 <g id="edge12" class="edge">
 <title>add_sponsorship_website&#45;&gt;create_event_website</title>
-<path fill="none" stroke="#000000" d="M1700.541,-1219.5925C1714.1463,-1228.9218 1730.9792,-1240.4644 1745.6103,-1250.4971"/>
-<polygon fill="#000000" stroke="#000000" points="1743.7028,-1253.4329 1753.9294,-1256.2017 1747.6615,-1247.6598 1743.7028,-1253.4329"/>
+<path fill="none" stroke="#000000" d="M1671.3875,-1219.4079C1688.829,-1229.0678 1710.6297,-1241.142 1729.2566,-1251.4584"/>
+<polygon fill="#000000" stroke="#000000" points="1727.669,-1254.5801 1738.1127,-1256.3634 1731.0605,-1248.4565 1727.669,-1254.5801"/>
 </g>
 <!-- add_sponsorship_website&#45;&gt;define_sponsorship_conditions -->
 <g id="edge11" class="edge">
 <title>add_sponsorship_website&#45;&gt;define_sponsorship_conditions</title>
-<path fill="none" stroke="#000000" d="M1664.1864,-1219.8112C1654.7096,-1238.8165 1643.9597,-1269.0971 1656.5859,-1291.7947 1664.1712,-1305.4305 1676.7825,-1316.0639 1690.0815,-1324.1507"/>
-<polygon fill="#000000" stroke="#000000" points="1688.4436,-1327.2451 1698.8743,-1329.1031 1691.8789,-1321.146 1688.4436,-1327.2451"/>
+<path fill="none" stroke="#000000" d="M1636.4988,-1220.1152C1634.2287,-1239.3743 1633.484,-1269.8648 1646.5859,-1291.7947 1654.4607,-1304.9754 1666.94,-1315.4991 1679.8956,-1323.6268"/>
+<polygon fill="#000000" stroke="#000000" points="1678.4889,-1326.8581 1688.8902,-1328.874 1682.0162,-1320.8118 1678.4889,-1326.8581"/>
 </g>
 <!-- acquire_sponsors -->
 <g id="node11" class="node">
 <title>acquire_sponsors</title>
-<g id="a_node11"><a xlink:href="https://github.com/prometheus/promcon/issues/38" xlink:title="Acquire sponsors">
-<ellipse fill="#7fff00" stroke="#000000" cx="1589.5859" cy="-1057.7947" rx="72.2875" ry="18"/>
-<text text-anchor="middle" x="1589.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Acquire sponsors</text>
+<g id="a_node11"><a xlink:href="https://github.com/prometheus/promcon/issues/204" xlink:title="Acquire sponsors">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1580.5859" cy="-1057.7947" rx="72.2875" ry="18"/>
+<text text-anchor="middle" x="1580.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Acquire sponsors</text>
 </a>
 </g>
 </g>
 <!-- acquire_sponsors&#45;&gt;add_sponsorship_website -->
 <g id="edge13" class="edge">
 <title>acquire_sponsors&#45;&gt;add_sponsorship_website</title>
-<path fill="none" stroke="#000000" d="M1600.1794,-1075.7412C1614.877,-1100.6407 1641.572,-1145.8652 1658.6717,-1174.8341"/>
-<polygon fill="#000000" stroke="#000000" points="1655.7616,-1176.7895 1663.859,-1183.622 1661.7897,-1173.2312 1655.7616,-1176.7895"/>
+<path fill="none" stroke="#000000" d="M1587.939,-1075.7412C1598.0526,-1100.4251 1616.3501,-1145.0836 1628.2298,-1174.078"/>
+<polygon fill="#000000" stroke="#000000" points="1625.1101,-1175.6955 1632.1402,-1183.622 1631.5875,-1173.0416 1625.1101,-1175.6955"/>
 </g>
 <!-- close_sponsors -->
 <g id="node12" class="node">
 <title>close_sponsors</title>
-<g id="a_node12"><a xlink:href="https://github.com/prometheus/promcon/issues/39" xlink:title="Close sponsors">
-<ellipse fill="#7fff00" stroke="#000000" cx="1574.5859" cy="-913.7947" rx="63.8893" ry="18"/>
-<text text-anchor="middle" x="1574.5859" y="-910.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Close sponsors</text>
+<g id="a_node12"><a xlink:href="https://github.com/prometheus/promcon/issues/205" xlink:title="Close sponsors">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1512.5859" cy="-913.7947" rx="63.8893" ry="18"/>
+<text text-anchor="middle" x="1512.5859" y="-910.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Close sponsors</text>
 </a>
 </g>
 </g>
 <!-- close_sponsors&#45;&gt;acquire_sponsors -->
 <g id="edge14" class="edge">
 <title>close_sponsors&#45;&gt;acquire_sponsors</title>
-<path fill="none" stroke="#000000" d="M1576.4857,-932.0324C1579.0442,-956.5937 1583.6227,-1000.5473 1586.6324,-1029.4406"/>
-<polygon fill="#000000" stroke="#000000" points="1583.1843,-1030.1215 1587.7016,-1039.7051 1590.1466,-1029.3962 1583.1843,-1030.1215"/>
+<path fill="none" stroke="#000000" d="M1521.0607,-931.7412C1532.7679,-956.5329 1553.99,-1001.474 1567.6764,-1030.4569"/>
+<polygon fill="#000000" stroke="#000000" points="1564.5694,-1032.074 1572.0044,-1039.622 1570.8991,-1029.0849 1564.5694,-1032.074"/>
 </g>
 <!-- sponsors_paid -->
 <g id="node17" class="node">
 <title>sponsors_paid</title>
-<g id="a_node17"><a xlink:href="https://github.com/prometheus/promcon/issues/43" xlink:title="Verify sponsors have paid">
-<ellipse fill="#ff7f50" stroke="#000000" cx="2136.5859" cy="-985.7947" rx="103.1819" ry="18"/>
-<text text-anchor="middle" x="2136.5859" y="-982.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Verify sponsors have paid</text>
+<g id="a_node17"><a xlink:href="https://github.com/prometheus/promcon/issues/209" xlink:title="Verify sponsors have paid">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2126.5859" cy="-985.7947" rx="103.1819" ry="18"/>
+<text text-anchor="middle" x="2126.5859" y="-982.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Verify sponsors have paid</text>
 </a>
 </g>
 </g>
 <!-- close_sponsors&#45;&gt;sponsors_paid -->
 <g id="edge18" class="edge">
 <title>close_sponsors&#45;&gt;sponsors_paid</title>
-<path fill="none" stroke="#000000" d="M1632.613,-921.2288C1729.7618,-933.6749 1926.1467,-958.8345 2043.0178,-973.8073"/>
-<polygon fill="#000000" stroke="#000000" points="2042.6659,-977.2908 2053.0297,-975.09 2043.5555,-970.3475 2042.6659,-977.2908"/>
+<path fill="none" stroke="#000000" d="M1571.4588,-920.6984C1677.6152,-933.1467 1901.9962,-959.4584 2030.6175,-974.5411"/>
+<polygon fill="#000000" stroke="#000000" points="2030.5126,-978.0527 2040.8522,-975.7412 2031.3279,-971.1003 2030.5126,-978.0527"/>
 </g>
 <!-- list_sponsors -->
 <g id="node13" class="node">
 <title>list_sponsors</title>
-<g id="a_node13"><a xlink:href="https://github.com/prometheus/promcon/issues/40" xlink:title="List sponsors on website">
-<ellipse fill="#7fff00" stroke="#000000" cx="1324.5859" cy="-697.7947" rx="98.2828" ry="18"/>
+<g id="a_node13"><a xlink:href="https://github.com/prometheus/promcon/issues/206" xlink:title="List sponsors on website">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1324.5859" cy="-697.7947" rx="98.2828" ry="18"/>
 <text text-anchor="middle" x="1324.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">List sponsors on website</text>
 </a>
 </g>
@@ -226,13 +229,13 @@
 <!-- list_sponsors&#45;&gt;close_sponsors -->
 <g id="edge15" class="edge">
 <title>list_sponsors&#45;&gt;close_sponsors</title>
-<path fill="none" stroke="#000000" d="M1345.0445,-715.4709C1389.7648,-754.1093 1496.2653,-846.1257 1546.9124,-889.8848"/>
-<polygon fill="#000000" stroke="#000000" points="1544.6883,-892.5886 1554.5434,-896.478 1549.2647,-887.2917 1544.6883,-892.5886"/>
+<path fill="none" stroke="#000000" d="M1340.2913,-715.8392C1373.7721,-754.3065 1452.2361,-844.4566 1490.636,-888.5756"/>
+<polygon fill="#000000" stroke="#000000" points="1488.1146,-891.0099 1497.32,-896.2551 1493.3948,-886.4142 1488.1146,-891.0099"/>
 </g>
 <!-- tweet_sponsors_before -->
 <g id="node14" class="node">
 <title>tweet_sponsors_before</title>
-<g id="a_node14"><a xlink:href="https://github.com/prometheus/promcon/issues/41" xlink:title="Tweet&#45;thank sponsors before event">
+<g id="a_node14"><a xlink:href="https://github.com/prometheus/promcon/issues/207" xlink:title="Tweet&#45;thank sponsors before event">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1575.5859" cy="-697.7947" rx="134.5761" ry="18"/>
 <text text-anchor="middle" x="1575.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Tweet&#45;thank sponsors before event</text>
 </a>
@@ -241,13 +244,13 @@
 <!-- tweet_sponsors_before&#45;&gt;close_sponsors -->
 <g id="edge16" class="edge">
 <title>tweet_sponsors_before&#45;&gt;close_sponsors</title>
-<path fill="none" stroke="#000000" d="M1563.5039,-716.0299C1545.0322,-746.2912 1513.7007,-808.6225 1531.5859,-859.7947 1535.2416,-870.254 1541.8651,-880.2017 1548.836,-888.643"/>
-<polygon fill="#000000" stroke="#000000" points="1546.3001,-891.059 1555.5404,-896.2423 1551.5492,-886.428 1546.3001,-891.059"/>
+<path fill="none" stroke="#000000" d="M1565.6957,-715.953C1553.1545,-739.8968 1531.9226,-783.6948 1521.5859,-823.7947 1516.3679,-844.0375 1514.143,-867.5648 1513.2094,-885.4866"/>
+<polygon fill="#000000" stroke="#000000" points="1509.7082,-885.4447 1512.7878,-895.5821 1516.7021,-885.7369 1509.7082,-885.4447"/>
 </g>
 <!-- tweet_sponsors_after -->
 <g id="node15" class="node">
 <title>tweet_sponsors_after</title>
-<g id="a_node15"><a xlink:href="https://github.com/prometheus/promcon/issues/42" xlink:title="Tweet&#45;thank sponsors after event">
+<g id="a_node15"><a xlink:href="https://github.com/prometheus/promcon/issues/208" xlink:title="Tweet&#45;thank sponsors after event">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1578.5859" cy="-409.7947" rx="128.0773" ry="18"/>
 <text text-anchor="middle" x="1578.5859" y="-406.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Tweet&#45;thank sponsors after event</text>
 </a>
@@ -256,7 +259,7 @@
 <!-- conduct_event -->
 <g id="node16" class="node">
 <title>conduct_event</title>
-<g id="a_node16"><a xlink:href="https://github.com/prometheus/promcon/issues/62" xlink:title="Conduct event">
+<g id="a_node16"><a xlink:href="https://github.com/prometheus/promcon/issues/228" xlink:title="Conduct event">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1681.5859" cy="-553.7947" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="1681.5859" y="-550.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Conduct event</text>
 </a>
@@ -283,23 +286,23 @@
 <!-- website_schedule -->
 <g id="node24" class="node">
 <title>website_schedule</title>
-<g id="a_node24"><a xlink:href="https://github.com/prometheus/promcon/issues/50" xlink:title="Add schedule to website">
-<ellipse fill="#7fff00" stroke="#000000" cx="2036.5859" cy="-697.7947" rx="97.4827" ry="18"/>
-<text text-anchor="middle" x="2036.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Add schedule to website</text>
+<g id="a_node24"><a xlink:href="https://github.com/prometheus/promcon/issues/216" xlink:title="Add schedule to website">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2005.5859" cy="-697.7947" rx="97.4827" ry="18"/>
+<text text-anchor="middle" x="2005.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Add schedule to website</text>
 </a>
 </g>
 </g>
 <!-- conduct_event&#45;&gt;website_schedule -->
 <g id="edge85" class="edge">
 <title>conduct_event&#45;&gt;website_schedule</title>
-<path fill="none" stroke="#000000" d="M1742.9917,-555.8648C1870.8976,-560.8099 2156.471,-575.3936 2185.5859,-607.7947 2215.5681,-641.1608 2160.6895,-666.0914 2109.2782,-681.1513"/>
-<polygon fill="#000000" stroke="#000000" points="2108.0772,-677.8535 2099.4048,-683.9397 2109.9797,-684.59 2108.0772,-677.8535"/>
+<path fill="none" stroke="#000000" d="M1742.9917,-555.8648C1870.8976,-560.8099 2156.471,-575.3936 2185.5859,-607.7947 2220.5535,-646.7089 2153.0312,-670.8915 2090.9522,-684.2624"/>
+<polygon fill="#000000" stroke="#000000" points="2090.1327,-680.8578 2081.0521,-686.3161 2091.5546,-687.7118 2090.1327,-680.8578"/>
 </g>
 <!-- registration_desk_schedule -->
 <g id="node25" class="node">
 <title>registration_desk_schedule</title>
-<g id="a_node25"><a xlink:href="https://github.com/prometheus/promcon/issues/68" xlink:title="Build reg&#45;desk schedule">
-<ellipse fill="#7fff00" stroke="#000000" cx="2367.5859" cy="-697.7947" rx="96.3833" ry="18"/>
+<g id="a_node25"><a xlink:href="https://github.com/prometheus/promcon/issues/234" xlink:title="Build reg&#45;desk schedule">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2367.5859" cy="-697.7947" rx="96.3833" ry="18"/>
 <text text-anchor="middle" x="2367.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Build reg&#45;desk schedule</text>
 </a>
 </g>
@@ -313,52 +316,52 @@
 <!-- organize_after_party -->
 <g id="node27" class="node">
 <title>organize_after_party</title>
-<g id="a_node27"><a xlink:href="https://github.com/prometheus/promcon/issues/57" xlink:title="Organize after&#45;party">
-<ellipse fill="#7fff00" stroke="#000000" cx="1835.5859" cy="-1057.7947" rx="82.5854" ry="18"/>
-<text text-anchor="middle" x="1835.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Organize after&#45;party</text>
+<g id="a_node27"><a xlink:href="https://github.com/prometheus/promcon/issues/223" xlink:title="Organize after&#45;party">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1787.5859" cy="-1057.7947" rx="82.5854" ry="18"/>
+<text text-anchor="middle" x="1787.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Organize after&#45;party</text>
 </a>
 </g>
 </g>
 <!-- conduct_event&#45;&gt;organize_after_party -->
 <g id="edge81" class="edge">
 <title>conduct_event&#45;&gt;organize_after_party</title>
-<path fill="none" stroke="#000000" d="M1619.8184,-554.1394C1374.6888,-555.8048 481.7392,-564.8117 440.5859,-607.7947 429.5209,-619.3517 432.1742,-630.1843 440.5859,-643.7947 583.9143,-875.7049 1477.1462,-1010.8458 1753.9196,-1047.5446"/>
-<polygon fill="#000000" stroke="#000000" points="1753.5239,-1051.0227 1763.8956,-1048.8601 1754.439,-1044.0827 1753.5239,-1051.0227"/>
+<path fill="none" stroke="#000000" d="M1619.8184,-554.1394C1374.6888,-555.8048 481.7392,-564.8117 440.5859,-607.7947 251.9804,-804.7855 1395.2251,-997.3575 1709.322,-1046.0433"/>
+<polygon fill="#000000" stroke="#000000" points="1708.8409,-1049.5105 1719.2581,-1047.5783 1709.9097,-1042.5925 1708.8409,-1049.5105"/>
 </g>
 <!-- organize_venue_food -->
 <g id="node32" class="node">
 <title>organize_venue_food</title>
-<g id="a_node32"><a xlink:href="https://github.com/prometheus/promcon/issues/56" xlink:title="Organize venue catering">
-<ellipse fill="#ff7f50" stroke="#000000" cx="2593.5859" cy="-841.7947" rx="96.6831" ry="18"/>
-<text text-anchor="middle" x="2593.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Organize venue catering</text>
+<g id="a_node32"><a xlink:href="https://github.com/prometheus/promcon/issues/222" xlink:title="Organize venue catering">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2583.5859" cy="-841.7947" rx="96.6831" ry="18"/>
+<text text-anchor="middle" x="2583.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Organize venue catering</text>
 </a>
 </g>
 </g>
 <!-- conduct_event&#45;&gt;organize_venue_food -->
 <g id="edge80" class="edge">
 <title>conduct_event&#45;&gt;organize_venue_food</title>
-<path fill="none" stroke="#000000" d="M1742.9299,-556.453C1921.6726,-564.4078 2431.3526,-588.6587 2461.5859,-607.7947 2539.0977,-656.8553 2517.3054,-708.0157 2562.5859,-787.7947 2567.6017,-796.6319 2573.1136,-806.2599 2578.0811,-814.9065"/>
-<polygon fill="#000000" stroke="#000000" points="2575.1883,-816.8969 2583.2084,-823.8199 2581.256,-813.4065 2575.1883,-816.8969"/>
+<path fill="none" stroke="#000000" d="M1742.9577,-556.4099C1921.7776,-564.2448 2431.6503,-588.1963 2461.5859,-607.7947 2480.6939,-620.3044 2544.0517,-755.2921 2571.1339,-814.3712"/>
+<polygon fill="#000000" stroke="#000000" points="2567.9652,-815.8581 2575.3058,-823.498 2574.3317,-812.948 2567.9652,-815.8581"/>
 </g>
 <!-- clarify_venue_access -->
 <g id="node33" class="node">
 <title>clarify_venue_access</title>
-<g id="a_node33"><a xlink:href="https://github.com/prometheus/promcon/issues/58" xlink:title="Clarify venue access/security">
-<ellipse fill="#ff7f50" stroke="#000000" cx="1452.5859" cy="-1273.7947" rx="114.2798" ry="18"/>
-<text text-anchor="middle" x="1452.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Clarify venue access/security</text>
+<g id="a_node33"><a xlink:href="https://github.com/prometheus/promcon/issues/224" xlink:title="Clarify venue access/security">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1435.5859" cy="-1273.7947" rx="114.2798" ry="18"/>
+<text text-anchor="middle" x="1435.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Clarify venue access/security</text>
 </a>
 </g>
 </g>
 <!-- conduct_event&#45;&gt;clarify_venue_access -->
 <g id="edge82" class="edge">
 <title>conduct_event&#45;&gt;clarify_venue_access</title>
-<path fill="none" stroke="#000000" d="M1619.6939,-554.79C1370.7823,-558.9993 453.603,-576.5751 400.5859,-607.7947 360.1914,-631.5815 345.5859,-650.9169 345.5859,-697.7947 345.5859,-697.7947 345.5859,-697.7947 345.5859,-1129.7947 345.5859,-1228.1063 1041.0258,-1261.0374 1329.4894,-1270.4683"/>
-<polygon fill="#000000" stroke="#000000" points="1329.4697,-1273.9694 1339.5774,-1270.7939 1329.6956,-1266.973 1329.4697,-1273.9694"/>
+<path fill="none" stroke="#000000" d="M1619.8711,-554.6114C1369.509,-558.1497 440.4737,-573.5459 388.5859,-607.7947 351.5878,-632.2155 345.5859,-653.4637 345.5859,-697.7947 345.5859,-697.7947 345.5859,-697.7947 345.5859,-1129.7947 345.5859,-1226.3972 1027.1729,-1260.2645 1312.3967,-1270.2077"/>
+<polygon fill="#000000" stroke="#000000" points="1312.6729,-1273.7192 1322.7874,-1270.5655 1312.9138,-1266.7234 1312.6729,-1273.7192"/>
 </g>
 <!-- pre_event_email -->
 <g id="node35" class="node">
 <title>pre_event_email</title>
-<g id="a_node35"><a xlink:href="https://github.com/prometheus/promcon/issues/64" xlink:title="Pre&#45;event email">
+<g id="a_node35"><a xlink:href="https://github.com/prometheus/promcon/issues/230" xlink:title="Pre&#45;event email">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2109.5859" cy="-625.7947" rx="66.8882" ry="18"/>
 <text text-anchor="middle" x="2109.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Pre&#45;event email</text>
 </a>
@@ -373,37 +376,37 @@
 <!-- build_registration_desk_sheet -->
 <g id="node44" class="node">
 <title>build_registration_desk_sheet</title>
-<g id="a_node44"><a xlink:href="https://github.com/prometheus/promcon/issues/89" xlink:title="Build registration desk spreadsheet">
-<ellipse fill="#ff7f50" stroke="#000000" cx="1675.5859" cy="-841.7947" rx="134.5761" ry="18"/>
-<text text-anchor="middle" x="1675.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Build registration desk spreadsheet</text>
+<g id="a_node44"><a xlink:href="https://github.com/prometheus/promcon/issues/255" xlink:title="Build registration desk spreadsheet">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1665.5859" cy="-841.7947" rx="134.5761" ry="18"/>
+<text text-anchor="middle" x="1665.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Build registration desk spreadsheet</text>
 </a>
 </g>
 </g>
 <!-- conduct_event&#45;&gt;build_registration_desk_sheet -->
 <g id="edge91" class="edge">
 <title>conduct_event&#45;&gt;build_registration_desk_sheet</title>
-<path fill="none" stroke="#000000" d="M1690.5708,-571.6252C1704.439,-601.3047 1728.5697,-662.8186 1719.5859,-715.7947 1713.6351,-750.8856 1698.9838,-789.2304 1688.2158,-814.2899"/>
-<polygon fill="#000000" stroke="#000000" points="1684.9751,-812.9648 1684.1623,-823.5284 1691.3853,-815.7773 1684.9751,-812.9648"/>
+<path fill="none" stroke="#000000" d="M1690.979,-571.7017C1705.4343,-601.4912 1730.3897,-663.1596 1719.5859,-715.7947 1712.2028,-751.7645 1694.1044,-790.1448 1680.8885,-814.9644"/>
+<polygon fill="#000000" stroke="#000000" points="1677.7975,-813.3224 1676.095,-823.7795 1683.9471,-816.6665 1677.7975,-813.3224"/>
 </g>
 <!-- verify_venue_video -->
 <g id="node47" class="node">
 <title>verify_venue_video</title>
-<g id="a_node47"><a xlink:href="https://github.com/prometheus/promcon/issues/92" xlink:title="Verify venue video support">
-<ellipse fill="#ff7f50" stroke="#000000" cx="497.5859" cy="-1057.7947" rx="107.781" ry="18"/>
-<text text-anchor="middle" x="497.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Verify venue video support</text>
+<g id="a_node47"><a xlink:href="https://github.com/prometheus/promcon/issues/258" xlink:title="Verify venue video support">
+<ellipse fill="#ff7f50" stroke="#000000" cx="498.5859" cy="-1057.7947" rx="107.781" ry="18"/>
+<text text-anchor="middle" x="498.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Verify venue video support</text>
 </a>
 </g>
 </g>
 <!-- conduct_event&#45;&gt;verify_venue_video -->
 <g id="edge90" class="edge">
 <title>conduct_event&#45;&gt;verify_venue_video</title>
-<path fill="none" stroke="#000000" d="M1619.6908,-554.1155C1372.9911,-555.6924 471.1351,-564.4148 429.5859,-607.7947 314.8341,-727.6026 434.0582,-953.5928 480.6478,-1030.9959"/>
-<polygon fill="#000000" stroke="#000000" points="477.7517,-1032.9691 485.9488,-1039.6816 483.7268,-1029.3224 477.7517,-1032.9691"/>
+<path fill="none" stroke="#000000" d="M1619.5203,-554.09C1371.0664,-555.5714 459.5653,-563.9836 417.5859,-607.7947 302.2742,-728.1379 430.6018,-953.7854 480.4836,-1031.0479"/>
+<polygon fill="#000000" stroke="#000000" points="477.7522,-1033.2659 486.1562,-1039.7175 483.6097,-1029.4332 477.7522,-1033.2659"/>
 </g>
 <!-- set_up_materials -->
 <g id="node50" class="node">
 <title>set_up_materials</title>
-<g id="a_node50"><a xlink:href="https://github.com/prometheus/promcon/issues/61" xlink:title="Set up materials at venue">
+<g id="a_node50"><a xlink:href="https://github.com/prometheus/promcon/issues/227" xlink:title="Set up materials at venue">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2333.5859" cy="-625.7947" rx="100.9827" ry="18"/>
 <text text-anchor="middle" x="2333.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Set up materials at venue</text>
 </a>
@@ -418,7 +421,7 @@
 <!-- diversity_comms -->
 <g id="node55" class="node">
 <title>diversity_comms</title>
-<g id="a_node55"><a xlink:href="https://github.com/prometheus/promcon/issues/73" xlink:title="Various diversity attendee comms">
+<g id="a_node55"><a xlink:href="https://github.com/prometheus/promcon/issues/239" xlink:title="Various diversity attendee comms">
 <ellipse fill="#ff7f50" stroke="#000000" cx="581.5859" cy="-625.7947" rx="131.8766" ry="18"/>
 <text text-anchor="middle" x="581.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Various diversity attendee comms</text>
 </a>
@@ -433,7 +436,7 @@
 <!-- diversity_visas -->
 <g id="node56" class="node">
 <title>diversity_visas</title>
-<g id="a_node56"><a xlink:href="https://github.com/prometheus/promcon/issues/74" xlink:title="Handle diversity visas">
+<g id="a_node56"><a xlink:href="https://github.com/prometheus/promcon/issues/240" xlink:title="Handle diversity visas">
 <ellipse fill="#ff7f50" stroke="#000000" cx="820.5859" cy="-625.7947" rx="89.0842" ry="18"/>
 <text text-anchor="middle" x="820.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Handle diversity visas</text>
 </a>
@@ -448,7 +451,7 @@
 <!-- diversity_accommodation -->
 <g id="node57" class="node">
 <title>diversity_accommodation</title>
-<g id="a_node57"><a xlink:href="https://github.com/prometheus/promcon/issues/75" xlink:title="Help book diversity accommodation">
+<g id="a_node57"><a xlink:href="https://github.com/prometheus/promcon/issues/241" xlink:title="Help book diversity accommodation">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1494.5859" cy="-625.7947" rx="140.2752" ry="18"/>
 <text text-anchor="middle" x="1494.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Help book diversity accommodation</text>
 </a>
@@ -463,8 +466,8 @@
 <!-- heralding_schedule -->
 <g id="node59" class="node">
 <title>heralding_schedule</title>
-<g id="a_node59"><a xlink:href="https://github.com/prometheus/promcon/issues/66" xlink:title="Build heralding schedule">
-<ellipse fill="#7fff00" stroke="#000000" cx="1026.5859" cy="-625.7947" rx="98.5829" ry="18"/>
+<g id="a_node59"><a xlink:href="https://github.com/prometheus/promcon/issues/232" xlink:title="Build heralding schedule">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1026.5859" cy="-625.7947" rx="98.5829" ry="18"/>
 <text text-anchor="middle" x="1026.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Build heralding schedule</text>
 </a>
 </g>
@@ -478,7 +481,7 @@
 <!-- tweeting_schedule -->
 <g id="node60" class="node">
 <title>tweeting_schedule</title>
-<g id="a_node60"><a xlink:href="https://github.com/prometheus/promcon/issues/67" xlink:title="Build tweeting schedule">
+<g id="a_node60"><a xlink:href="https://github.com/prometheus/promcon/issues/233" xlink:title="Build tweeting schedule">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1239.5859" cy="-625.7947" rx="96.3833" ry="18"/>
 <text text-anchor="middle" x="1239.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Build tweeting schedule</text>
 </a>
@@ -493,149 +496,149 @@
 <!-- create_cfp_form -->
 <g id="node18" class="node">
 <title>create_cfp_form</title>
-<g id="a_node18"><a xlink:href="https://github.com/prometheus/promcon/issues/44" xlink:title="Create CfP form">
-<ellipse fill="#7fff00" stroke="#000000" cx="2495.5859" cy="-1273.7947" rx="69.5877" ry="18"/>
-<text text-anchor="middle" x="2495.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create CfP form</text>
+<g id="a_node18"><a xlink:href="https://github.com/prometheus/promcon/issues/210" xlink:title="Create CfP form">
+<ellipse fill="#7fff00" stroke="#000000" cx="2485.5859" cy="-1273.7947" rx="69.5877" ry="18"/>
+<text text-anchor="middle" x="2485.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create CfP form</text>
 </a>
 </g>
 </g>
 <!-- create_cfp_form&#45;&gt;determine_venue -->
 <g id="edge20" class="edge">
 <title>create_cfp_form&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M2467.9244,-1290.3399C2432.7812,-1310.6404 2369.6961,-1344.7062 2311.5859,-1363.7947 2231.2183,-1390.1945 2134.1243,-1404.7711 2073.3467,-1411.9386"/>
-<polygon fill="#000000" stroke="#000000" points="2072.7078,-1408.4889 2063.1734,-1413.109 2073.5079,-1415.443 2072.7078,-1408.4889"/>
+<path fill="none" stroke="#000000" d="M2457.9244,-1290.3399C2422.7812,-1310.6404 2359.6961,-1344.7062 2301.5859,-1363.7947 2221.2183,-1390.1945 2124.1243,-1404.7711 2063.3467,-1411.9386"/>
+<polygon fill="#000000" stroke="#000000" points="2062.7078,-1408.4889 2053.1734,-1413.109 2063.5079,-1415.443 2062.7078,-1408.4889"/>
 </g>
 <!-- create_cfp_form&#45;&gt;determine_dates -->
 <g id="edge19" class="edge">
 <title>create_cfp_form&#45;&gt;determine_dates</title>
-<path fill="none" stroke="#000000" d="M2447.8357,-1286.9169C2403.7411,-1299.0345 2338.1594,-1317.0569 2291.1787,-1329.9677"/>
-<polygon fill="#000000" stroke="#000000" points="2290.1653,-1326.6163 2281.4503,-1332.6411 2292.0203,-1333.3661 2290.1653,-1326.6163"/>
+<path fill="none" stroke="#000000" d="M2437.8357,-1286.9169C2393.7411,-1299.0345 2328.1594,-1317.0569 2281.1787,-1329.9677"/>
+<polygon fill="#000000" stroke="#000000" points="2280.1653,-1326.6163 2271.4503,-1332.6411 2282.0203,-1333.3661 2280.1653,-1326.6163"/>
 </g>
 <!-- announce_cfp -->
 <g id="node19" class="node">
 <title>announce_cfp</title>
-<g id="a_node19"><a xlink:href="https://github.com/prometheus/promcon/issues/45" xlink:title="Announce CfP">
-<ellipse fill="#7fff00" stroke="#000000" cx="2450.5859" cy="-1201.7947" rx="63.0888" ry="18"/>
-<text text-anchor="middle" x="2450.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Announce CfP</text>
+<g id="a_node19"><a xlink:href="https://github.com/prometheus/promcon/issues/211" xlink:title="Announce CfP">
+<ellipse fill="#7fff00" stroke="#000000" cx="2441.5859" cy="-1201.7947" rx="63.0888" ry="18"/>
+<text text-anchor="middle" x="2441.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Announce CfP</text>
 </a>
 </g>
 </g>
 <!-- announce_cfp&#45;&gt;create_cfp_form -->
 <g id="edge21" class="edge">
 <title>announce_cfp&#45;&gt;create_cfp_form</title>
-<path fill="none" stroke="#000000" d="M2461.7095,-1219.5925C2466.956,-1227.9868 2473.3223,-1238.1729 2479.1135,-1247.4388"/>
-<polygon fill="#000000" stroke="#000000" points="2476.1663,-1249.3272 2484.4343,-1255.9521 2482.1023,-1245.6171 2476.1663,-1249.3272"/>
+<path fill="none" stroke="#000000" d="M2452.4623,-1219.5925C2457.5393,-1227.9002 2463.6888,-1237.9631 2469.3043,-1247.152"/>
+<polygon fill="#000000" stroke="#000000" points="2466.4811,-1249.2444 2474.6822,-1255.9521 2472.4541,-1245.5942 2466.4811,-1249.2444"/>
 </g>
 <!-- evaluate_talks -->
 <g id="node20" class="node">
 <title>evaluate_talks</title>
-<g id="a_node20"><a xlink:href="https://github.com/prometheus/promcon/issues/46" xlink:title="Evaluate talks">
-<ellipse fill="#7fff00" stroke="#000000" cx="2430.5859" cy="-1129.7947" rx="60.3893" ry="18"/>
-<text text-anchor="middle" x="2430.5859" y="-1126.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Evaluate talks</text>
+<g id="a_node20"><a xlink:href="https://github.com/prometheus/promcon/issues/212" xlink:title="Evaluate talks">
+<ellipse fill="#7fff00" stroke="#000000" cx="2421.5859" cy="-1129.7947" rx="60.3893" ry="18"/>
+<text text-anchor="middle" x="2421.5859" y="-1126.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Evaluate talks</text>
 </a>
 </g>
 </g>
 <!-- evaluate_talks&#45;&gt;announce_cfp -->
 <g id="edge22" class="edge">
 <title>evaluate_talks&#45;&gt;announce_cfp</title>
-<path fill="none" stroke="#000000" d="M2435.6328,-1147.9633C2437.7953,-1155.7484 2440.3712,-1165.0218 2442.7707,-1173.66"/>
-<polygon fill="#000000" stroke="#000000" points="2439.4223,-1174.683 2445.4711,-1183.3814 2446.1669,-1172.8095 2439.4223,-1174.683"/>
+<path fill="none" stroke="#000000" d="M2426.6328,-1147.9633C2428.7953,-1155.7484 2431.3712,-1165.0218 2433.7707,-1173.66"/>
+<polygon fill="#000000" stroke="#000000" points="2430.4223,-1174.683 2436.4711,-1183.3814 2437.1669,-1172.8095 2430.4223,-1174.683"/>
 </g>
 <!-- select_talks -->
 <g id="node21" class="node">
 <title>select_talks</title>
-<g id="a_node21"><a xlink:href="https://github.com/prometheus/promcon/issues/47" xlink:title="Select talks">
-<ellipse fill="#7fff00" stroke="#000000" cx="2426.5859" cy="-1057.7947" rx="51.1914" ry="18"/>
-<text text-anchor="middle" x="2426.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Select talks</text>
+<g id="a_node21"><a xlink:href="https://github.com/prometheus/promcon/issues/213" xlink:title="Select talks">
+<ellipse fill="#7fff00" stroke="#000000" cx="2417.5859" cy="-1057.7947" rx="51.1914" ry="18"/>
+<text text-anchor="middle" x="2417.5859" y="-1054.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Select talks</text>
 </a>
 </g>
 </g>
 <!-- select_talks&#45;&gt;evaluate_talks -->
 <g id="edge23" class="edge">
 <title>select_talks&#45;&gt;evaluate_talks</title>
-<path fill="none" stroke="#000000" d="M2427.5953,-1075.9633C2428.0231,-1083.6637 2428.5318,-1092.8203 2429.0072,-1101.3781"/>
-<polygon fill="#000000" stroke="#000000" points="2425.5136,-1101.591 2429.563,-1111.3814 2432.5028,-1101.2026 2425.5136,-1101.591"/>
+<path fill="none" stroke="#000000" d="M2418.5953,-1075.9633C2419.0231,-1083.6637 2419.5318,-1092.8203 2420.0072,-1101.3781"/>
+<polygon fill="#000000" stroke="#000000" points="2416.5136,-1101.591 2420.563,-1111.3814 2423.5028,-1101.2026 2416.5136,-1101.591"/>
 </g>
 <!-- confirm_talks -->
 <g id="node22" class="node">
 <title>confirm_talks</title>
-<g id="a_node22"><a xlink:href="https://github.com/prometheus/promcon/issues/48" xlink:title="Confirm talks with speakers">
-<ellipse fill="#7fff00" stroke="#000000" cx="2368.5859" cy="-985.7947" rx="110.4804" ry="18"/>
-<text text-anchor="middle" x="2368.5859" y="-982.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Confirm talks with speakers</text>
+<g id="a_node22"><a xlink:href="https://github.com/prometheus/promcon/issues/214" xlink:title="Confirm talks with speakers">
+<ellipse fill="#7fff00" stroke="#000000" cx="2358.5859" cy="-985.7947" rx="110.4804" ry="18"/>
+<text text-anchor="middle" x="2358.5859" y="-982.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Confirm talks with speakers</text>
 </a>
 </g>
 </g>
 <!-- confirm_talks&#45;&gt;select_talks -->
 <g id="edge24" class="edge">
 <title>confirm_talks&#45;&gt;select_talks</title>
-<path fill="none" stroke="#000000" d="M2383.2218,-1003.9633C2390.1779,-1012.5985 2398.6091,-1023.0648 2406.1809,-1032.4643"/>
-<polygon fill="#000000" stroke="#000000" points="2403.556,-1034.7851 2412.555,-1040.377 2409.0073,-1030.3938 2403.556,-1034.7851"/>
+<path fill="none" stroke="#000000" d="M2373.4741,-1003.9633C2380.5501,-1012.5985 2389.1267,-1023.0648 2396.8291,-1032.4643"/>
+<polygon fill="#000000" stroke="#000000" points="2394.2676,-1034.8606 2403.3131,-1040.377 2399.682,-1030.4238 2394.2676,-1034.8606"/>
 </g>
 <!-- build_schedule -->
 <g id="node23" class="node">
 <title>build_schedule</title>
-<g id="a_node23"><a xlink:href="https://github.com/prometheus/promcon/issues/49" xlink:title="Build schedule">
-<ellipse fill="#7fff00" stroke="#000000" cx="2352.5859" cy="-913.7947" rx="63.8893" ry="18"/>
-<text text-anchor="middle" x="2352.5859" y="-910.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Build schedule</text>
+<g id="a_node23"><a xlink:href="https://github.com/prometheus/promcon/issues/215" xlink:title="Build schedule">
+<ellipse fill="#7fff00" stroke="#000000" cx="2342.5859" cy="-913.7947" rx="63.8893" ry="18"/>
+<text text-anchor="middle" x="2342.5859" y="-910.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Build schedule</text>
 </a>
 </g>
 </g>
 <!-- build_schedule&#45;&gt;confirm_talks -->
 <g id="edge25" class="edge">
 <title>build_schedule&#45;&gt;confirm_talks</title>
-<path fill="none" stroke="#000000" d="M2356.6234,-931.9633C2358.3346,-939.6637 2360.3694,-948.8203 2362.2711,-957.3781"/>
-<polygon fill="#000000" stroke="#000000" points="2358.9081,-958.3788 2364.4941,-967.3814 2365.7414,-956.8603 2358.9081,-958.3788"/>
+<path fill="none" stroke="#000000" d="M2346.6234,-931.9633C2348.3346,-939.6637 2350.3694,-948.8203 2352.2711,-957.3781"/>
+<polygon fill="#000000" stroke="#000000" points="2348.9081,-958.3788 2354.4941,-967.3814 2355.7414,-956.8603 2348.9081,-958.3788"/>
 </g>
 <!-- website_schedule&#45;&gt;build_schedule -->
 <g id="edge26" class="edge">
 <title>website_schedule&#45;&gt;build_schedule</title>
-<path fill="none" stroke="#000000" d="M2056.8082,-715.4655C2093.2082,-746.7891 2172.8486,-813.1407 2246.5859,-859.7947 2266.4743,-872.3782 2289.6598,-884.4587 2309.2663,-893.9907"/>
-<polygon fill="#000000" stroke="#000000" points="2307.7552,-897.1476 2318.2851,-898.3196 2310.7843,-890.8369 2307.7552,-897.1476"/>
+<path fill="none" stroke="#000000" d="M2028.4685,-715.4724C2069.148,-746.5232 2157.2465,-812.0872 2236.5859,-859.7947 2257.0609,-872.1065 2280.6758,-884.3178 2300.4121,-894.0055"/>
+<polygon fill="#000000" stroke="#000000" points="2298.9456,-897.1841 2309.4694,-898.4087 2302.0062,-890.8887 2298.9456,-897.1841"/>
 </g>
 <!-- registration_desk_schedule&#45;&gt;build_schedule -->
 <g id="edge27" class="edge">
 <title>registration_desk_schedule&#45;&gt;build_schedule</title>
-<path fill="none" stroke="#000000" d="M2343.6624,-715.5413C2316.3438,-737.4586 2273.1639,-777.561 2255.5859,-823.7947 2249.8998,-838.7502 2247.4779,-846.0012 2255.5859,-859.7947 2265.3103,-876.3379 2282.1425,-888.1811 2299.0831,-896.4778"/>
-<polygon fill="#000000" stroke="#000000" points="2297.9082,-899.7881 2308.4611,-900.7296 2300.7987,-893.4127 2297.9082,-899.7881"/>
+<path fill="none" stroke="#000000" d="M2341.318,-715.2243C2311.6002,-736.6975 2264.8371,-776.2371 2245.5859,-823.7947 2239.5824,-838.6257 2237.4779,-846.0012 2245.5859,-859.7947 2255.3103,-876.3379 2272.1425,-888.1811 2289.0831,-896.4778"/>
+<polygon fill="#000000" stroke="#000000" points="2287.9082,-899.7881 2298.4611,-900.7296 2290.7987,-893.4127 2287.9082,-899.7881"/>
 </g>
 <!-- design_schedule_flyer -->
 <g id="node26" class="node">
 <title>design_schedule_flyer</title>
-<g id="a_node26"><a xlink:href="https://github.com/prometheus/promcon/issues/51" xlink:title="Design schedule flyer">
-<ellipse fill="#7fff00" stroke="#000000" cx="2352.5859" cy="-841.7947" rx="87.9851" ry="18"/>
-<text text-anchor="middle" x="2352.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design schedule flyer</text>
+<g id="a_node26"><a xlink:href="https://github.com/prometheus/promcon/issues/217" xlink:title="Design schedule flyer">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2342.5859" cy="-841.7947" rx="87.9851" ry="18"/>
+<text text-anchor="middle" x="2342.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design schedule flyer</text>
 </a>
 </g>
 </g>
 <!-- design_schedule_flyer&#45;&gt;build_schedule -->
 <g id="edge28" class="edge">
 <title>design_schedule_flyer&#45;&gt;build_schedule</title>
-<path fill="none" stroke="#000000" d="M2352.5859,-859.9633C2352.5859,-867.6637 2352.5859,-876.8203 2352.5859,-885.3781"/>
-<polygon fill="#000000" stroke="#000000" points="2349.086,-885.3814 2352.5859,-895.3814 2356.086,-885.3815 2349.086,-885.3814"/>
+<path fill="none" stroke="#000000" d="M2342.5859,-859.9633C2342.5859,-867.6637 2342.5859,-876.8203 2342.5859,-885.3781"/>
+<polygon fill="#000000" stroke="#000000" points="2339.086,-885.3814 2342.5859,-895.3814 2346.086,-885.3815 2339.086,-885.3814"/>
 </g>
 <!-- design_schedule_flyer&#45;&gt;organize_after_party -->
 <g id="edge29" class="edge">
 <title>design_schedule_flyer&#45;&gt;organize_after_party</title>
-<path fill="none" stroke="#000000" d="M2308.6462,-857.4416C2245.3044,-880.2751 2124.9197,-924.7113 2024.5859,-967.7947 1973.3283,-989.8048 1915.5921,-1017.7758 1877.5731,-1036.6472"/>
-<polygon fill="#000000" stroke="#000000" points="1875.7401,-1033.6499 1868.348,-1041.2398 1878.8598,-1039.9163 1875.7401,-1033.6499"/>
+<path fill="none" stroke="#000000" d="M2300.8503,-857.6635C2238.4829,-881.414 2117.3,-927.7056 2014.5859,-967.7947 1953.1971,-991.7547 1882.6657,-1019.7999 1836.7281,-1038.1355"/>
+<polygon fill="#000000" stroke="#000000" points="1835.3001,-1034.9369 1827.311,-1041.8957 1837.8959,-1041.4378 1835.3001,-1034.9369"/>
 </g>
 <!-- organize_after_party&#45;&gt;determine_venue -->
 <g id="edge39" class="edge">
 <title>organize_after_party&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M1767.3542,-1067.9307C1616.4357,-1091.2799 1267.5859,-1150.7704 1267.5859,-1201.7947 1267.5859,-1201.7947 1267.5859,-1201.7947 1267.5859,-1273.7947 1267.5859,-1398.6005 1411.7618,-1336.6769 1533.5859,-1363.7947 1682.8584,-1397.0224 1862.9763,-1410.2972 1954.6489,-1415.1957"/>
-<polygon fill="#000000" stroke="#000000" points="1954.6789,-1418.7019 1964.847,-1415.7254 1955.042,-1411.7113 1954.6789,-1418.7019"/>
+<path fill="none" stroke="#000000" d="M1720.0869,-1068.2177C1572.1784,-1091.9789 1232.5859,-1151.9602 1232.5859,-1201.7947 1232.5859,-1201.7947 1232.5859,-1201.7947 1232.5859,-1273.7947 1232.5859,-1346.2668 1765.13,-1397.6892 1945.6024,-1413.0348"/>
+<polygon fill="#000000" stroke="#000000" points="1945.4493,-1416.5343 1955.7082,-1413.8876 1946.038,-1409.5591 1945.4493,-1416.5343"/>
 </g>
 <!-- organize_after_party&#45;&gt;determine_dates -->
 <g id="edge40" class="edge">
 <title>organize_after_party&#45;&gt;determine_dates</title>
-<path fill="none" stroke="#000000" d="M1891.2398,-1071.2444C2011.2284,-1101.4861 2287.7229,-1178.2872 2340.5859,-1255.7947 2349.6013,-1269.013 2348.9722,-1278.1686 2340.5859,-1291.7947 2329.8097,-1309.3039 2311.4124,-1321.3416 2292.8822,-1329.523"/>
-<polygon fill="#000000" stroke="#000000" points="2291.4502,-1326.3271 2283.5149,-1333.3473 2294.096,-1332.8078 2291.4502,-1326.3271"/>
+<path fill="none" stroke="#000000" d="M1846.8736,-1070.4875C1975.4895,-1099.35 2273.2,-1173.7874 2330.5859,-1255.7947 2339.7593,-1268.9038 2338.9722,-1278.1686 2330.5859,-1291.7947 2319.8097,-1309.3039 2301.4124,-1321.3416 2282.8822,-1329.523"/>
+<polygon fill="#000000" stroke="#000000" points="2281.4502,-1326.3271 2273.5149,-1333.3473 2284.096,-1332.8078 2281.4502,-1326.3271"/>
 </g>
 <!-- order_schedule_flyer -->
 <g id="node28" class="node">
 <title>order_schedule_flyer</title>
-<g id="a_node28"><a xlink:href="https://github.com/prometheus/promcon/issues/52" xlink:title="Order schedule flyer">
-<ellipse fill="#7fff00" stroke="#000000" cx="3031.5859" cy="-769.7947" rx="83.3857" ry="18"/>
+<g id="a_node28"><a xlink:href="https://github.com/prometheus/promcon/issues/218" xlink:title="Order schedule flyer">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3031.5859" cy="-769.7947" rx="83.3857" ry="18"/>
 <text text-anchor="middle" x="3031.5859" y="-766.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order schedule flyer</text>
 </a>
 </g>
@@ -643,100 +646,100 @@
 <!-- order_schedule_flyer&#45;&gt;design_schedule_flyer -->
 <g id="edge30" class="edge">
 <title>order_schedule_flyer&#45;&gt;design_schedule_flyer</title>
-<path fill="none" stroke="#000000" d="M2971.8696,-782.5014C2961.1561,-784.4886 2950.0665,-786.3568 2939.5859,-787.7947 2739.9311,-815.1865 2687.9796,-802.47 2487.5859,-823.7947 2470.4863,-825.6143 2452.207,-827.8528 2434.7983,-830.1253"/>
-<polygon fill="#000000" stroke="#000000" points="2434.1197,-826.6844 2424.6644,-831.4643 2435.0367,-833.6241 2434.1197,-826.6844"/>
+<path fill="none" stroke="#000000" d="M2971.8717,-782.5164C2961.1579,-784.502 2950.0678,-786.3658 2939.5859,-787.7947 2735.5176,-815.614 2682.404,-802.1766 2477.5859,-823.7947 2460.4848,-825.5997 2442.2048,-827.8318 2424.7959,-830.1028"/>
+<polygon fill="#000000" stroke="#000000" points="2424.1175,-826.6619 2414.662,-831.4414 2425.0342,-833.6016 2424.1175,-826.6619"/>
 </g>
 <!-- set_up_registration -->
 <g id="node29" class="node">
 <title>set_up_registration</title>
-<g id="a_node29"><a xlink:href="https://github.com/prometheus/promcon/issues/53" xlink:title="Set up registration system">
-<ellipse fill="#7fff00" stroke="#000000" cx="2014.5859" cy="-1273.7947" rx="102.8821" ry="18"/>
-<text text-anchor="middle" x="2014.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Set up registration system</text>
+<g id="a_node29"><a xlink:href="https://github.com/prometheus/promcon/issues/219" xlink:title="Set up registration system">
+<ellipse fill="#7fff00" stroke="#000000" cx="2004.5859" cy="-1273.7947" rx="102.8821" ry="18"/>
+<text text-anchor="middle" x="2004.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Set up registration system</text>
 </a>
 </g>
 </g>
 <!-- set_up_registration&#45;&gt;determine_venue -->
 <g id="edge32" class="edge">
 <title>set_up_registration&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M2014.5859,-1292.0324C2014.5859,-1316.5937 2014.5859,-1360.5473 2014.5859,-1389.4406"/>
-<polygon fill="#000000" stroke="#000000" points="2011.086,-1389.705 2014.5859,-1399.7051 2018.086,-1389.7051 2011.086,-1389.705"/>
+<path fill="none" stroke="#000000" d="M2004.5859,-1292.0324C2004.5859,-1316.5937 2004.5859,-1360.5473 2004.5859,-1389.4406"/>
+<polygon fill="#000000" stroke="#000000" points="2001.086,-1389.705 2004.5859,-1399.7051 2008.086,-1389.7051 2001.086,-1389.705"/>
 </g>
 <!-- set_up_registration&#45;&gt;determine_dates -->
 <g id="edge31" class="edge">
 <title>set_up_registration&#45;&gt;determine_dates</title>
-<path fill="none" stroke="#000000" d="M2062.9175,-1289.6845C2097.8044,-1301.1542 2144.8881,-1316.6338 2180.7647,-1328.4288"/>
-<polygon fill="#000000" stroke="#000000" points="2179.9742,-1331.8532 2190.5671,-1331.6515 2182.1605,-1325.2033 2179.9742,-1331.8532"/>
+<path fill="none" stroke="#000000" d="M2052.9175,-1289.6845C2087.8044,-1301.1542 2134.8881,-1316.6338 2170.7647,-1328.4288"/>
+<polygon fill="#000000" stroke="#000000" points="2169.9742,-1331.8532 2180.5671,-1331.6515 2172.1605,-1325.2033 2169.9742,-1331.8532"/>
 </g>
 <!-- announce_registration -->
 <g id="node30" class="node">
 <title>announce_registration</title>
-<g id="a_node30"><a xlink:href="https://github.com/prometheus/promcon/issues/54" xlink:title="Announce registration">
-<ellipse fill="#7fff00" stroke="#000000" cx="2005.5859" cy="-1201.7947" rx="89.0842" ry="18"/>
-<text text-anchor="middle" x="2005.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Announce registration</text>
+<g id="a_node30"><a xlink:href="https://github.com/prometheus/promcon/issues/220" xlink:title="Announce registration">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1995.5859" cy="-1201.7947" rx="89.0842" ry="18"/>
+<text text-anchor="middle" x="1995.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Announce registration</text>
 </a>
 </g>
 </g>
 <!-- announce_registration&#45;&gt;create_event_website -->
 <g id="edge34" class="edge">
 <title>announce_registration&#45;&gt;create_event_website</title>
-<path fill="none" stroke="#000000" d="M1957.6571,-1217.064C1923.4019,-1227.9772 1877.0443,-1242.746 1840.2159,-1254.4789"/>
-<polygon fill="#000000" stroke="#000000" points="1839.0522,-1251.1763 1830.5865,-1257.5467 1841.1771,-1257.846 1839.0522,-1251.1763"/>
+<path fill="none" stroke="#000000" d="M1947.6571,-1217.064C1913.4019,-1227.9772 1867.0443,-1242.746 1830.2159,-1254.4789"/>
+<polygon fill="#000000" stroke="#000000" points="1829.0522,-1251.1763 1820.5865,-1257.5467 1831.1771,-1257.846 1829.0522,-1251.1763"/>
 </g>
 <!-- announce_registration&#45;&gt;set_up_registration -->
 <g id="edge33" class="edge">
 <title>announce_registration&#45;&gt;set_up_registration</title>
-<path fill="none" stroke="#000000" d="M2007.857,-1219.9633C2008.8196,-1227.6637 2009.9641,-1236.8203 2011.0338,-1245.3781"/>
-<polygon fill="#000000" stroke="#000000" points="2007.5709,-1245.8928 2012.2843,-1255.3814 2014.5168,-1245.0245 2007.5709,-1245.8928"/>
+<path fill="none" stroke="#000000" d="M1997.857,-1219.9633C1998.8196,-1227.6637 1999.9641,-1236.8203 2001.0338,-1245.3781"/>
+<polygon fill="#000000" stroke="#000000" points="1997.5709,-1245.8928 2002.2843,-1255.3814 2004.5168,-1245.0245 1997.5709,-1245.8928"/>
 </g>
 <!-- handle_registration -->
 <g id="node31" class="node">
 <title>handle_registration</title>
-<g id="a_node31"><a xlink:href="https://github.com/prometheus/promcon/issues/55" xlink:title="Handle registration">
-<ellipse fill="#ff7f50" stroke="#000000" cx="1843.5859" cy="-913.7947" rx="78.7863" ry="18"/>
-<text text-anchor="middle" x="1843.5859" y="-910.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Handle registration</text>
+<g id="a_node31"><a xlink:href="https://github.com/prometheus/promcon/issues/221" xlink:title="Handle registration">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1833.5859" cy="-913.7947" rx="78.7863" ry="18"/>
+<text text-anchor="middle" x="1833.5859" y="-910.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Handle registration</text>
 </a>
 </g>
 </g>
 <!-- handle_registration&#45;&gt;announce_registration -->
 <g id="edge35" class="edge">
 <title>handle_registration&#45;&gt;announce_registration</title>
-<path fill="none" stroke="#000000" d="M1856.6465,-931.6521C1873.9076,-955.6249 1904.7907,-999.8304 1927.5859,-1039.7947 1953.6556,-1085.4997 1979.2114,-1141.2516 1993.6274,-1174.0041"/>
-<polygon fill="#000000" stroke="#000000" points="1990.5195,-1175.6329 1997.732,-1183.3937 1996.9335,-1172.829 1990.5195,-1175.6329"/>
+<path fill="none" stroke="#000000" d="M1843.7198,-931.8104C1871.2786,-980.8038 1947.7067,-1116.6761 1980.4157,-1174.8253"/>
+<polygon fill="#000000" stroke="#000000" points="1977.5028,-1176.786 1985.4559,-1183.7858 1983.6038,-1173.3541 1977.5028,-1176.786"/>
 </g>
 <!-- organize_venue_food&#45;&gt;determine_venue -->
 <g id="edge36" class="edge">
 <title>organize_venue_food&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M2593.5859,-859.9801C2593.5859,-887.2964 2593.5859,-940.5447 2593.5859,-985.7947 2593.5859,-985.7947 2593.5859,-985.7947 2593.5859,-1273.7947 2593.5859,-1379.8813 2222.9029,-1408.3918 2074.7282,-1415.5505"/>
-<polygon fill="#000000" stroke="#000000" points="2074.2783,-1412.0676 2064.4523,-1416.0299 2074.6045,-1419.06 2074.2783,-1412.0676"/>
+<path fill="none" stroke="#000000" d="M2583.5859,-859.9801C2583.5859,-887.2964 2583.5859,-940.5447 2583.5859,-985.7947 2583.5859,-985.7947 2583.5859,-985.7947 2583.5859,-1273.7947 2583.5859,-1379.8813 2212.9029,-1408.3918 2064.7282,-1415.5505"/>
+<polygon fill="#000000" stroke="#000000" points="2064.2783,-1412.0676 2054.4523,-1416.0299 2064.6045,-1419.06 2064.2783,-1412.0676"/>
 </g>
 <!-- organize_venue_food&#45;&gt;determine_dates -->
 <g id="edge37" class="edge">
 <title>organize_venue_food&#45;&gt;determine_dates</title>
-<path fill="none" stroke="#000000" d="M2588.4259,-860.2021C2585.6084,-870.602 2582.1764,-883.8698 2579.5859,-895.7947 2548.548,-1038.6737 2617.755,-1108.7964 2522.5859,-1219.7947 2490.201,-1257.5661 2461.5702,-1234.5374 2416.5859,-1255.7947 2389.1548,-1268.7573 2385.474,-1277.7404 2358.5859,-1291.7947 2333.8198,-1304.7399 2305.2723,-1317.2441 2281.7165,-1326.9544"/>
-<polygon fill="#000000" stroke="#000000" points="2280.2234,-1323.7834 2272.2874,-1330.8027 2282.8686,-1330.2644 2280.2234,-1323.7834"/>
+<path fill="none" stroke="#000000" d="M2578.4121,-860.1991C2575.5902,-870.5981 2572.1585,-883.8659 2569.5859,-895.7947 2538.7781,-1038.6454 2608.6972,-1108.8474 2513.5859,-1219.7947 2480.9298,-1257.8881 2451.9814,-1234.4222 2406.5859,-1255.7947 2379.1364,-1268.7182 2375.474,-1277.7404 2348.5859,-1291.7947 2323.8198,-1304.7399 2295.2723,-1317.2441 2271.7165,-1326.9544"/>
+<polygon fill="#000000" stroke="#000000" points="2270.2234,-1323.7834 2262.2874,-1330.8027 2272.8686,-1330.2644 2270.2234,-1323.7834"/>
 </g>
 <!-- organize_venue_food&#45;&gt;build_schedule -->
 <g id="edge38" class="edge">
 <title>organize_venue_food&#45;&gt;build_schedule</title>
-<path fill="none" stroke="#000000" d="M2542.181,-857.1522C2502.2077,-869.0944 2446.9126,-885.6141 2406.3519,-897.7318"/>
-<polygon fill="#000000" stroke="#000000" points="2405.2159,-894.4183 2396.6363,-900.6344 2407.2197,-901.1254 2405.2159,-894.4183"/>
+<path fill="none" stroke="#000000" d="M2532.181,-857.1522C2492.2077,-869.0944 2436.9126,-885.6141 2396.3519,-897.7318"/>
+<polygon fill="#000000" stroke="#000000" points="2395.2159,-894.4183 2386.6363,-900.6344 2397.2197,-901.1254 2395.2159,-894.4183"/>
 </g>
 <!-- clarify_venue_access&#45;&gt;determine_venue -->
 <g id="edge41" class="edge">
 <title>clarify_venue_access&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M1477.6478,-1291.4056C1508.7097,-1312.2943 1563.9942,-1346.4608 1616.5859,-1363.7947 1678.2472,-1384.1178 1860.7905,-1403.4469 1955.7305,-1412.4749"/>
-<polygon fill="#000000" stroke="#000000" points="1955.4649,-1415.9653 1965.7495,-1413.4202 1956.1226,-1408.9962 1955.4649,-1415.9653"/>
+<path fill="none" stroke="#000000" d="M1461.325,-1291.3962C1493.2102,-1312.2754 1549.9085,-1346.4325 1603.5859,-1363.7947 1665.8968,-1383.9494 1850.1646,-1403.3912 1945.6812,-1412.4668"/>
+<polygon fill="#000000" stroke="#000000" points="1945.4742,-1415.9627 1955.7586,-1413.4171 1946.1314,-1408.9936 1945.4742,-1415.9627"/>
 </g>
 <!-- clarify_venue_access&#45;&gt;determine_dates -->
 <g id="edge42" class="edge">
 <title>clarify_venue_access&#45;&gt;determine_dates</title>
-<path fill="none" stroke="#000000" d="M1551.5001,-1282.9135C1709.674,-1297.4955 2016.1376,-1325.7482 2158.0681,-1338.8327"/>
-<polygon fill="#000000" stroke="#000000" points="2158.1304,-1342.3532 2168.4095,-1339.7861 2158.7731,-1335.3828 2158.1304,-1342.3532"/>
+<path fill="none" stroke="#000000" d="M1534.5888,-1282.8406C1694.3421,-1297.4374 2005.4933,-1325.8674 2148.4589,-1338.9303"/>
+<polygon fill="#000000" stroke="#000000" points="2148.1804,-1342.4193 2158.4574,-1339.8439 2148.8174,-1335.4484 2148.1804,-1342.4193"/>
 </g>
 <!-- booth_decisions -->
 <g id="node34" class="node">
 <title>booth_decisions</title>
-<g id="a_node34"><a xlink:href="https://github.com/prometheus/promcon/issues/59" xlink:title="Determine sponsor booth style/placement">
+<g id="a_node34"><a xlink:href="https://github.com/prometheus/promcon/issues/225" xlink:title="Determine sponsor booth style/placement">
 <ellipse fill="#ff7f50" stroke="#000000" cx="158.5859" cy="-985.7947" rx="158.6719" ry="18"/>
 <text text-anchor="middle" x="158.5859" y="-982.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Determine sponsor booth style/placement</text>
 </a>
@@ -745,41 +748,41 @@
 <!-- booth_decisions&#45;&gt;determine_venue -->
 <g id="edge43" class="edge">
 <title>booth_decisions&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M175.2309,-1003.7793C197.3265,-1029.6018 233.5859,-1079.6207 233.5859,-1129.7947 233.5859,-1129.7947 233.5859,-1129.7947 233.5859,-1273.7947 233.5859,-1362.1224 1643.6694,-1407.2729 1954.4631,-1416.1518"/>
-<polygon fill="#000000" stroke="#000000" points="1954.5286,-1419.6549 1964.624,-1416.4403 1954.7274,-1412.6577 1954.5286,-1419.6549"/>
+<path fill="none" stroke="#000000" d="M175.2309,-1003.7793C197.3265,-1029.6018 233.5859,-1079.6207 233.5859,-1129.7947 233.5859,-1129.7947 233.5859,-1129.7947 233.5859,-1273.7947 233.5859,-1361.582 1634.2309,-1407.1149 1944.2966,-1416.1192"/>
+<polygon fill="#000000" stroke="#000000" points="1944.3393,-1419.6218 1954.4361,-1416.4118 1944.5413,-1412.6247 1944.3393,-1419.6218"/>
 </g>
 <!-- pre_event_email&#45;&gt;website_schedule -->
 <g id="edge45" class="edge">
 <title>pre_event_email&#45;&gt;website_schedule</title>
-<path fill="none" stroke="#000000" d="M2091.9147,-643.2239C2082.9031,-652.112 2071.7829,-663.0799 2061.881,-672.8461"/>
-<polygon fill="#000000" stroke="#000000" points="2059.2635,-670.5118 2054.6016,-680.0258 2064.179,-675.4955 2059.2635,-670.5118"/>
+<path fill="none" stroke="#000000" d="M2085.2025,-642.6755C2071.5515,-652.1262 2054.3233,-664.0534 2039.3873,-674.3937"/>
+<polygon fill="#000000" stroke="#000000" points="2037.1322,-671.698 2030.9025,-680.2678 2041.1167,-677.4534 2037.1322,-671.698"/>
 </g>
 <!-- pre_event_email&#45;&gt;handle_registration -->
 <g id="edge44" class="edge">
 <title>pre_event_email&#45;&gt;handle_registration</title>
-<path fill="none" stroke="#000000" d="M2061.2524,-638.2736C2011.8113,-651.37 1940.819,-671.2226 1930.5859,-679.7947 1867.4403,-732.6909 1850.1025,-836.018 1845.3604,-885.7419"/>
-<polygon fill="#000000" stroke="#000000" points="1841.8667,-885.5199 1844.5068,-895.7805 1848.8415,-886.113 1841.8667,-885.5199"/>
+<path fill="none" stroke="#000000" d="M2059.9464,-637.9539C1998.8168,-653.0147 1902.619,-677.0364 1899.5859,-679.7947 1840.3804,-733.635 1832.6695,-836.0689 1832.6532,-885.5921"/>
+<polygon fill="#000000" stroke="#000000" points="1829.1534,-885.6354 1832.7566,-895.5987 1836.153,-885.563 1829.1534,-885.6354"/>
 </g>
 <!-- design_stage_signage -->
 <g id="node36" class="node">
 <title>design_stage_signage</title>
-<g id="a_node36"><a xlink:href="https://github.com/prometheus/promcon/issues/77" xlink:title="Design stage signage">
-<ellipse fill="#7fff00" stroke="#000000" cx="1951.5859" cy="-841.7947" rx="85.2851" ry="18"/>
-<text text-anchor="middle" x="1951.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design stage signage</text>
+<g id="a_node36"><a xlink:href="https://github.com/prometheus/promcon/issues/243" xlink:title="Design stage signage">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1941.5859" cy="-841.7947" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="1941.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Design stage signage</text>
 </a>
 </g>
 </g>
 <!-- design_stage_signage&#45;&gt;close_sponsors -->
 <g id="edge46" class="edge">
 <title>design_stage_signage&#45;&gt;close_sponsors</title>
-<path fill="none" stroke="#000000" d="M1888.0593,-853.9271C1818.2554,-867.2583 1706.8374,-888.5371 1637.3417,-901.8095"/>
-<polygon fill="#000000" stroke="#000000" points="1636.5682,-898.3939 1627.4023,-903.7077 1637.8814,-905.2696 1636.5682,-898.3939"/>
+<path fill="none" stroke="#000000" d="M1874.5547,-853.0447C1793.4239,-866.6611 1657.7396,-889.4332 1577.5493,-902.8918"/>
+<polygon fill="#000000" stroke="#000000" points="1576.8559,-899.4591 1567.5732,-904.5661 1578.0146,-906.3625 1576.8559,-899.4591"/>
 </g>
 <!-- order_stage_signage -->
 <g id="node37" class="node">
 <title>order_stage_signage</title>
-<g id="a_node37"><a xlink:href="https://github.com/prometheus/promcon/issues/78" xlink:title="Order stage signage">
-<ellipse fill="#7fff00" stroke="#000000" cx="2685.5859" cy="-769.7947" rx="81.4863" ry="18"/>
+<g id="a_node37"><a xlink:href="https://github.com/prometheus/promcon/issues/244" xlink:title="Order stage signage">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2685.5859" cy="-769.7947" rx="81.4863" ry="18"/>
 <text text-anchor="middle" x="2685.5859" y="-766.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order stage signage</text>
 </a>
 </g>
@@ -787,14 +790,14 @@
 <!-- order_stage_signage&#45;&gt;design_stage_signage -->
 <g id="edge47" class="edge">
 <title>order_stage_signage&#45;&gt;design_stage_signage</title>
-<path fill="none" stroke="#000000" d="M2606.2195,-773.8044C2484.9655,-780.5359 2246.4958,-796.1606 2045.5859,-823.7947 2038.1463,-824.818 2030.4038,-826.041 2022.6972,-827.3613"/>
-<polygon fill="#000000" stroke="#000000" points="2021.8528,-823.9562 2012.6152,-829.1444 2023.0719,-830.8492 2021.8528,-823.9562"/>
+<path fill="none" stroke="#000000" d="M2605.9914,-773.6751C2483.1605,-780.2786 2240.1919,-795.7865 2035.5859,-823.7947 2028.0042,-824.8325 2020.1082,-826.0795 2012.2562,-827.4268"/>
+<polygon fill="#000000" stroke="#000000" points="2011.5977,-823.9889 2002.3611,-829.1788 2012.8182,-830.8817 2011.5977,-823.9889"/>
 </g>
 <!-- order_bags -->
 <g id="node38" class="node">
 <title>order_bags</title>
-<g id="a_node38"><a xlink:href="https://github.com/prometheus/promcon/issues/80" xlink:title="Order bags">
-<ellipse fill="#7fff00" stroke="#000000" cx="3182.5859" cy="-769.7947" rx="50.0912" ry="18"/>
+<g id="a_node38"><a xlink:href="https://github.com/prometheus/promcon/issues/246" xlink:title="Order bags">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3182.5859" cy="-769.7947" rx="50.0912" ry="18"/>
 <text text-anchor="middle" x="3182.5859" y="-766.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order bags</text>
 </a>
 </g>
@@ -802,14 +805,14 @@
 <!-- order_bags&#45;&gt;design_bags -->
 <g id="edge48" class="edge">
 <title>order_bags&#45;&gt;design_bags</title>
-<path fill="none" stroke="#000000" d="M3186.1083,-787.8992C3191.0877,-815.1123 3199.5859,-868.2305 3199.5859,-913.7947 3199.5859,-913.7947 3199.5859,-913.7947 3199.5859,-1273.7947 3199.5859,-1313.9274 3200.7651,-1360.3381 3201.6449,-1389.3807"/>
-<polygon fill="#000000" stroke="#000000" points="3198.1539,-1389.726 3201.9643,-1399.6118 3205.1504,-1389.5075 3198.1539,-1389.726"/>
+<path fill="none" stroke="#000000" d="M3186.1083,-787.8992C3191.0877,-815.1123 3199.5859,-868.2305 3199.5859,-913.7947 3199.5859,-913.7947 3199.5859,-913.7947 3199.5859,-1273.7947 3199.5859,-1314.0154 3203.5164,-1360.4037 3206.4491,-1389.4174"/>
+<polygon fill="#000000" stroke="#000000" points="3202.9964,-1390.054 3207.5139,-1399.6374 3209.9587,-1389.3285 3202.9964,-1390.054"/>
 </g>
 <!-- order_stickers -->
 <g id="node39" class="node">
 <title>order_stickers</title>
-<g id="a_node39"><a xlink:href="https://github.com/prometheus/promcon/issues/82" xlink:title="Order stickers">
-<ellipse fill="#7fff00" stroke="#000000" cx="3310.5859" cy="-769.7947" rx="60.3893" ry="18"/>
+<g id="a_node39"><a xlink:href="https://github.com/prometheus/promcon/issues/248" xlink:title="Order stickers">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3310.5859" cy="-769.7947" rx="60.3893" ry="18"/>
 <text text-anchor="middle" x="3310.5859" y="-766.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order stickers</text>
 </a>
 </g>
@@ -817,14 +820,14 @@
 <!-- order_stickers&#45;&gt;design_stickers -->
 <g id="edge49" class="edge">
 <title>order_stickers&#45;&gt;design_stickers</title>
-<path fill="none" stroke="#000000" d="M3309.7571,-787.9756C3308.5855,-815.2862 3306.5859,-868.5272 3306.5859,-913.7947 3306.5859,-913.7947 3306.5859,-913.7947 3306.5859,-985.7947 3306.5859,-1025.9429 3304.6207,-1072.3496 3303.1543,-1101.3871"/>
-<polygon fill="#000000" stroke="#000000" points="3299.6465,-1101.4479 3302.6219,-1111.6163 3306.6371,-1101.8118 3299.6465,-1101.4479"/>
+<path fill="none" stroke="#000000" d="M3309.7571,-787.9756C3308.5855,-815.2862 3306.5859,-868.5272 3306.5859,-913.7947 3306.5859,-913.7947 3306.5859,-913.7947 3306.5859,-985.7947 3306.5859,-1025.997 3303.0485,-1072.39 3300.4091,-1101.4097"/>
+<polygon fill="#000000" stroke="#000000" points="3296.8995,-1101.349 3299.4507,-1111.6321 3303.869,-1102.0024 3296.8995,-1101.349"/>
 </g>
 <!-- order_tshirts -->
 <g id="node40" class="node">
 <title>order_tshirts</title>
-<g id="a_node40"><a xlink:href="https://github.com/prometheus/promcon/issues/84" xlink:title="Order T&#45;shirts">
-<ellipse fill="#7fff00" stroke="#000000" cx="3450.5859" cy="-769.7947" rx="61.1893" ry="18"/>
+<g id="a_node40"><a xlink:href="https://github.com/prometheus/promcon/issues/250" xlink:title="Order T&#45;shirts">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3450.5859" cy="-769.7947" rx="61.1893" ry="18"/>
 <text text-anchor="middle" x="3450.5859" y="-766.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order T&#45;shirts</text>
 </a>
 </g>
@@ -832,14 +835,14 @@
 <!-- order_tshirts&#45;&gt;design_tshirts -->
 <g id="edge50" class="edge">
 <title>order_tshirts&#45;&gt;design_tshirts</title>
-<path fill="none" stroke="#000000" d="M3438.7098,-787.5672C3422.2715,-813.9352 3394.5859,-865.5117 3394.5859,-913.7947 3394.5859,-913.7947 3394.5859,-913.7947 3394.5859,-1201.7947 3394.5859,-1241.9226 3393.7998,-1288.3344 3393.2133,-1317.3786"/>
-<polygon fill="#000000" stroke="#000000" points="3389.7093,-1317.5397 3393.0003,-1327.6104 3396.7078,-1317.6855 3389.7093,-1317.5397"/>
+<path fill="none" stroke="#000000" d="M3444.9915,-787.777C3437.083,-814.8344 3423.5859,-867.7562 3423.5859,-913.7947 3423.5859,-913.7947 3423.5859,-913.7947 3423.5859,-1201.7947 3423.5859,-1242.1079 3418.0832,-1288.4727 3413.9775,-1317.456"/>
+<polygon fill="#000000" stroke="#000000" points="3410.4686,-1317.2634 3412.4867,-1327.6643 3417.3951,-1318.275 3410.4686,-1317.2634"/>
 </g>
 <!-- order_other_swag -->
 <g id="node41" class="node">
 <title>order_other_swag</title>
-<g id="a_node41"><a xlink:href="https://github.com/prometheus/promcon/issues/86" xlink:title="Order other swag, optional">
-<ellipse fill="#7fff00" stroke="#000000" cx="3635.5859" cy="-769.7947" rx="105.8812" ry="18"/>
+<g id="a_node41"><a xlink:href="https://github.com/prometheus/promcon/issues/252" xlink:title="Order other swag, optional">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3635.5859" cy="-769.7947" rx="105.8812" ry="18"/>
 <text text-anchor="middle" x="3635.5859" y="-766.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order other swag, optional</text>
 </a>
 </g>
@@ -847,28 +850,28 @@
 <!-- order_other_swag&#45;&gt;design_other_swag -->
 <g id="edge51" class="edge">
 <title>order_other_swag&#45;&gt;design_other_swag</title>
-<path fill="none" stroke="#000000" d="M3618.7191,-787.7394C3596.3288,-813.5143 3559.5859,-863.4772 3559.5859,-913.7947 3559.5859,-913.7947 3559.5859,-913.7947 3559.5859,-1273.7947 3559.5859,-1314.791 3547.4292,-1360.9118 3538.3413,-1389.6621"/>
-<polygon fill="#000000" stroke="#000000" points="3534.93,-1388.8344 3535.1602,-1399.4268 3541.5857,-1391.0028 3534.93,-1388.8344"/>
+<path fill="none" stroke="#000000" d="M3628.3754,-788.108C3618.395,-815.1499 3601.5859,-867.5574 3601.5859,-913.7947 3601.5859,-913.7947 3601.5859,-913.7947 3601.5859,-1273.7947 3601.5859,-1315.0397 3587.8606,-1361.0977 3577.6001,-1389.7663"/>
+<polygon fill="#000000" stroke="#000000" points="3574.1865,-1388.9073 3574.0085,-1399.5006 3580.7537,-1391.3304 3574.1865,-1388.9073"/>
 </g>
 <!-- order_badges -->
 <g id="node42" class="node">
 <title>order_badges</title>
-<g id="a_node42"><a xlink:href="https://github.com/prometheus/promcon/issues/87" xlink:title="Order badges">
-<ellipse fill="#7fff00" stroke="#000000" cx="2112.5859" cy="-841.7947" rx="57.6901" ry="18"/>
-<text text-anchor="middle" x="2112.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order badges</text>
+<g id="a_node42"><a xlink:href="https://github.com/prometheus/promcon/issues/253" xlink:title="Order badges">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2102.5859" cy="-841.7947" rx="57.6901" ry="18"/>
+<text text-anchor="middle" x="2102.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Order badges</text>
 </a>
 </g>
 </g>
 <!-- order_badges&#45;&gt;handle_registration -->
 <g id="edge52" class="edge">
 <title>order_badges&#45;&gt;handle_registration</title>
-<path fill="none" stroke="#000000" d="M2068.6193,-853.615C2060.942,-855.6766 2053.0316,-857.7993 2045.5859,-859.7947 1998.3925,-872.4421 1944.9867,-886.7173 1904.9462,-897.4126"/>
-<polygon fill="#000000" stroke="#000000" points="1903.8244,-894.0895 1895.0662,-900.0515 1905.6308,-900.8524 1903.8244,-894.0895"/>
+<path fill="none" stroke="#000000" d="M2058.6193,-853.615C2050.942,-855.6766 2043.0316,-857.7993 2035.5859,-859.7947 1988.3925,-872.4421 1934.9867,-886.7173 1894.9462,-897.4126"/>
+<polygon fill="#000000" stroke="#000000" points="1893.8244,-894.0895 1885.0662,-900.0515 1895.6308,-900.8524 1893.8244,-894.0895"/>
 </g>
 <!-- verify_badges -->
 <g id="node43" class="node">
 <title>verify_badges</title>
-<g id="a_node43"><a xlink:href="https://github.com/prometheus/promcon/issues/88" xlink:title="Verify/fix badges">
+<g id="a_node43"><a xlink:href="https://github.com/prometheus/promcon/issues/254" xlink:title="Verify/fix badges">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2857.5859" cy="-769.7947" rx="72.5877" ry="18"/>
 <text text-anchor="middle" x="2857.5859" y="-766.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Verify/fix badges</text>
 </a>
@@ -877,67 +880,67 @@
 <!-- verify_badges&#45;&gt;order_badges -->
 <g id="edge53" class="edge">
 <title>verify_badges&#45;&gt;order_badges</title>
-<path fill="none" stroke="#000000" d="M2805.302,-782.4719C2795.4754,-784.5125 2785.2521,-786.4069 2775.5859,-787.7947 2546.2732,-820.7188 2486.1574,-801.3197 2255.5859,-823.7947 2229.3197,-826.355 2200.4243,-829.8609 2175.5243,-833.0986"/>
-<polygon fill="#000000" stroke="#000000" points="2174.9361,-829.6457 2165.4772,-834.4185 2175.8479,-836.5861 2174.9361,-829.6457"/>
+<path fill="none" stroke="#000000" d="M2805.3035,-782.4821C2795.4767,-784.5218 2785.253,-786.4131 2775.5859,-787.7947 2541.8624,-821.197 2480.5854,-801.0423 2245.5859,-823.7947 2219.3181,-826.3379 2190.4223,-829.8408 2165.5226,-833.0809"/>
+<polygon fill="#000000" stroke="#000000" points="2164.9339,-829.6281 2155.4756,-834.402 2165.8466,-836.5684 2164.9339,-829.6281"/>
 </g>
 <!-- build_registration_desk_sheet&#45;&gt;handle_registration -->
 <g id="edge54" class="edge">
 <title>build_registration_desk_sheet&#45;&gt;handle_registration</title>
-<path fill="none" stroke="#000000" d="M1715.8261,-859.0405C1740.1857,-869.4803 1771.3572,-882.8395 1796.8117,-893.7486"/>
-<polygon fill="#000000" stroke="#000000" points="1795.6912,-897.0762 1806.2614,-897.7985 1798.4486,-890.6422 1795.6912,-897.0762"/>
+<path fill="none" stroke="#000000" d="M1705.8261,-859.0405C1730.1857,-869.4803 1761.3572,-882.8395 1786.8117,-893.7486"/>
+<polygon fill="#000000" stroke="#000000" points="1785.6912,-897.0762 1796.2614,-897.7985 1788.4486,-890.6422 1785.6912,-897.0762"/>
 </g>
 <!-- contract_video_company -->
 <g id="node45" class="node">
 <title>contract_video_company</title>
-<g id="a_node45"><a xlink:href="https://github.com/prometheus/promcon/issues/90" xlink:title="Contract video company">
-<ellipse fill="#7fff00" stroke="#000000" cx="2233.5859" cy="-1273.7947" rx="98.2828" ry="18"/>
-<text text-anchor="middle" x="2233.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Contract video company</text>
+<g id="a_node45"><a xlink:href="https://github.com/prometheus/promcon/issues/256" xlink:title="Contract video company">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2223.5859" cy="-1273.7947" rx="98.2828" ry="18"/>
+<text text-anchor="middle" x="2223.5859" y="-1270.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Contract video company</text>
 </a>
 </g>
 </g>
 <!-- contract_video_company&#45;&gt;determine_venue -->
 <g id="edge55" class="edge">
 <title>contract_video_company&#45;&gt;determine_venue</title>
-<path fill="none" stroke="#000000" d="M2207.1694,-1291.1645C2167.0446,-1317.5479 2090.8125,-1367.6731 2047.2604,-1396.3101"/>
-<polygon fill="#000000" stroke="#000000" points="2045.1795,-1393.4895 2038.7469,-1401.908 2049.0254,-1399.3384 2045.1795,-1393.4895"/>
+<path fill="none" stroke="#000000" d="M2197.1694,-1291.1645C2157.0446,-1317.5479 2080.8125,-1367.6731 2037.2604,-1396.3101"/>
+<polygon fill="#000000" stroke="#000000" points="2035.1795,-1393.4895 2028.7469,-1401.908 2039.0254,-1399.3384 2035.1795,-1393.4895"/>
 </g>
 <!-- contract_video_company&#45;&gt;determine_dates -->
 <g id="edge56" class="edge">
 <title>contract_video_company&#45;&gt;determine_dates</title>
-<path fill="none" stroke="#000000" d="M2233.5859,-1291.9633C2233.5859,-1299.6637 2233.5859,-1308.8203 2233.5859,-1317.3781"/>
-<polygon fill="#000000" stroke="#000000" points="2230.086,-1317.3814 2233.5859,-1327.3814 2237.086,-1317.3815 2230.086,-1317.3814"/>
+<path fill="none" stroke="#000000" d="M2223.5859,-1291.9633C2223.5859,-1299.6637 2223.5859,-1308.8203 2223.5859,-1317.3781"/>
+<polygon fill="#000000" stroke="#000000" points="2220.086,-1317.3814 2223.5859,-1327.3814 2227.086,-1317.3815 2220.086,-1317.3814"/>
 </g>
 <!-- clarify_video_reqs -->
 <g id="node46" class="node">
 <title>clarify_video_reqs</title>
-<g id="a_node46"><a xlink:href="https://github.com/prometheus/promcon/issues/91" xlink:title="Clarify video requirements">
-<ellipse fill="#7fff00" stroke="#000000" cx="1402.5859" cy="-1201.7947" rx="106.6812" ry="18"/>
-<text text-anchor="middle" x="1402.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Clarify video requirements</text>
+<g id="a_node46"><a xlink:href="https://github.com/prometheus/promcon/issues/257" xlink:title="Clarify video requirements">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1367.5859" cy="-1201.7947" rx="106.6812" ry="18"/>
+<text text-anchor="middle" x="1367.5859" y="-1198.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Clarify video requirements</text>
 </a>
 </g>
 </g>
 <!-- clarify_video_reqs&#45;&gt;clarify_venue_access -->
 <g id="edge58" class="edge">
 <title>clarify_video_reqs&#45;&gt;clarify_venue_access</title>
-<path fill="none" stroke="#000000" d="M1415.203,-1219.9633C1420.9908,-1228.2977 1427.9632,-1238.338 1434.3108,-1247.4785"/>
-<polygon fill="#000000" stroke="#000000" points="1431.5673,-1249.664 1440.1461,-1255.8813 1437.3169,-1245.6712 1431.5673,-1249.664"/>
+<path fill="none" stroke="#000000" d="M1384.3949,-1219.5925C1392.6498,-1228.3329 1402.7395,-1239.0161 1411.7723,-1248.5803"/>
+<polygon fill="#000000" stroke="#000000" points="1409.3238,-1251.0852 1418.7346,-1255.9521 1414.4129,-1246.2788 1409.3238,-1251.0852"/>
 </g>
 <!-- clarify_video_reqs&#45;&gt;contract_video_company -->
 <g id="edge57" class="edge">
 <title>clarify_video_reqs&#45;&gt;contract_video_company</title>
-<path fill="none" stroke="#000000" d="M1477.6082,-1214.6024C1490.8969,-1216.5665 1504.6263,-1218.4007 1517.5859,-1219.7947 1787.17,-1248.7926 1857.1716,-1225.2604 2126.5859,-1255.7947 2135.5206,-1256.8073 2144.8436,-1258.0681 2154.0993,-1259.4494"/>
-<polygon fill="#000000" stroke="#000000" points="2153.6785,-1262.9258 2164.0949,-1260.9894 2154.7445,-1256.0074 2153.6785,-1262.9258"/>
+<path fill="none" stroke="#000000" d="M1442.6055,-1214.6277C1455.8944,-1216.589 1469.6247,-1218.4157 1482.5859,-1219.7947 1763.2338,-1249.6529 1836.1129,-1224.337 2116.5859,-1255.7947 2125.5906,-1256.8046 2134.989,-1258.0706 2144.3152,-1259.4606"/>
+<polygon fill="#000000" stroke="#000000" points="2143.9687,-1262.9484 2154.3849,-1261.0114 2145.0342,-1256.03 2143.9687,-1262.9484"/>
 </g>
 <!-- verify_venue_video&#45;&gt;clarify_video_reqs -->
 <g id="edge59" class="edge">
 <title>verify_venue_video&#45;&gt;clarify_video_reqs</title>
-<path fill="none" stroke="#000000" d="M575.9219,-1070.2592C744.0939,-1097.0181 1138.6875,-1159.8042 1314.9049,-1187.8432"/>
-<polygon fill="#000000" stroke="#000000" points="1314.4915,-1191.3214 1324.9173,-1189.4364 1315.5915,-1184.4084 1314.4915,-1191.3214"/>
+<path fill="none" stroke="#000000" d="M575.3227,-1070.5106C737.0774,-1097.3146 1112.0603,-1159.4521 1281.6033,-1187.5467"/>
+<polygon fill="#000000" stroke="#000000" points="1281.0498,-1191.0026 1291.4875,-1189.1846 1282.1943,-1184.0968 1281.0498,-1191.0026"/>
 </g>
 <!-- video_paid -->
 <g id="node48" class="node">
 <title>video_paid</title>
-<g id="a_node48"><a xlink:href="https://github.com/prometheus/promcon/issues/97" xlink:title="Verify video team has been paid">
+<g id="a_node48"><a xlink:href="https://github.com/prometheus/promcon/issues/263" xlink:title="Verify video team has been paid">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2692.5859" cy="-625.7947" rx="126.1777" ry="18"/>
 <text text-anchor="middle" x="2692.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Verify video team has been paid</text>
 </a>
@@ -946,13 +949,13 @@
 <!-- video_paid&#45;&gt;contract_video_company -->
 <g id="edge60" class="edge">
 <title>video_paid&#45;&gt;contract_video_company</title>
-<path fill="none" stroke="#000000" d="M2667.8097,-643.6297C2628.5414,-674.0966 2559.9339,-737.7261 2595.5859,-787.7947 2623.9574,-827.6388 2671.2144,-783.9506 2699.5859,-823.7947 2708.8665,-836.8281 2707.0745,-845.6554 2699.5859,-859.7947 2646.2753,-960.4515 2590.4975,-954.9783 2487.5859,-1003.7947 2436.8926,-1027.8412 2410.5095,-1004.8838 2366.5859,-1039.7947 2297.0865,-1095.0334 2257.4914,-1197.1616 2241.6923,-1246.1593"/>
-<polygon fill="#000000" stroke="#000000" points="2238.3303,-1245.1833 2238.6799,-1255.7724 2245.0101,-1247.2766 2238.3303,-1245.1833"/>
+<path fill="none" stroke="#000000" d="M2667.9855,-643.5067C2628.9794,-673.7901 2560.7523,-737.1533 2595.5859,-787.7947 2620.9394,-824.6537 2664.2325,-786.9357 2689.5859,-823.7947 2698.6535,-836.9772 2697.0745,-845.6554 2689.5859,-859.7947 2636.2753,-960.4515 2580.4418,-954.8612 2477.5859,-1003.7947 2427.3045,-1027.716 2401.1926,-1005.1695 2357.5859,-1039.7947 2287.9323,-1095.1021 2247.8611,-1197.197 2231.8267,-1246.173"/>
+<polygon fill="#000000" stroke="#000000" points="2228.4663,-1245.1912 2228.768,-1255.7817 2235.1365,-1247.3145 2228.4663,-1245.1912"/>
 </g>
 <!-- transport_materials -->
 <g id="node49" class="node">
 <title>transport_materials</title>
-<g id="a_node49"><a xlink:href="https://github.com/prometheus/promcon/issues/60" xlink:title="Transport materials to venue">
+<g id="a_node49"><a xlink:href="https://github.com/prometheus/promcon/issues/226" xlink:title="Transport materials to venue">
 <ellipse fill="#ff7f50" stroke="#000000" cx="3031.5859" cy="-697.7947" rx="112.3801" ry="18"/>
 <text text-anchor="middle" x="3031.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Transport materials to venue</text>
 </a>
@@ -1003,7 +1006,7 @@
 <!-- set_up_materials&#45;&gt;booth_decisions -->
 <g id="edge69" class="edge">
 <title>set_up_materials&#45;&gt;booth_decisions</title>
-<path fill="none" stroke="#000000" d="M2305.0553,-643.2191C2268.7642,-664.4267 2203.474,-699.4281 2142.5859,-715.7947 1407.998,-913.2503 1179.9788,-717.1711 440.5859,-895.7947 361.0163,-915.0172 271.2902,-945.1618 214.8513,-965.1949"/>
+<path fill="none" stroke="#000000" d="M2300.4005,-642.9185C2257.8852,-663.9859 2181.3366,-699.0171 2111.5859,-715.7947 1385.3371,-890.4842 1166.6619,-720.3882 440.5859,-895.7947 361.0163,-915.0172 271.2902,-945.1618 214.8513,-965.1949"/>
 <polygon fill="#000000" stroke="#000000" points="213.6418,-961.9103 205.3987,-968.5662 215.9933,-968.5035 213.6418,-961.9103"/>
 </g>
 <!-- set_up_materials&#45;&gt;transport_materials -->
@@ -1015,22 +1018,22 @@
 <!-- create_diversity_form -->
 <g id="node51" class="node">
 <title>create_diversity_form</title>
-<g id="a_node51"><a xlink:href="https://github.com/prometheus/promcon/issues/69" xlink:title="Create diversity scholarship form">
-<ellipse fill="#7fff00" stroke="#000000" cx="1805.5859" cy="-1129.7947" rx="129.1772" ry="18"/>
-<text text-anchor="middle" x="1805.5859" y="-1126.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create diversity scholarship form</text>
+<g id="a_node51"><a xlink:href="https://github.com/prometheus/promcon/issues/235" xlink:title="Create diversity scholarship form">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1789.5859" cy="-1129.7947" rx="129.1772" ry="18"/>
+<text text-anchor="middle" x="1789.5859" y="-1126.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create diversity scholarship form</text>
 </a>
 </g>
 </g>
 <!-- create_diversity_form&#45;&gt;create_event_website -->
 <g id="edge70" class="edge">
 <title>create_diversity_form&#45;&gt;create_event_website</title>
-<path fill="none" stroke="#000000" d="M1817.7153,-1147.7449C1828.5698,-1166.1735 1841.3778,-1195.5095 1831.5859,-1219.7947 1827.144,-1230.8112 1819.2602,-1240.836 1810.9532,-1249.176"/>
-<polygon fill="#000000" stroke="#000000" points="1808.5194,-1246.6601 1803.62,-1256.0541 1813.3082,-1251.7658 1808.5194,-1246.6601"/>
+<path fill="none" stroke="#000000" d="M1794.2313,-1147.9755C1798.1724,-1166.3349 1802.3471,-1195.39 1796.5859,-1219.7947 1794.4163,-1228.9853 1790.4297,-1238.3952 1786.1738,-1246.7316"/>
+<polygon fill="#000000" stroke="#000000" points="1783.0432,-1245.1623 1781.3368,-1255.6188 1789.1915,-1248.5087 1783.0432,-1245.1623"/>
 </g>
 <!-- announce_diversity -->
 <g id="node52" class="node">
 <title>announce_diversity</title>
-<g id="a_node52"><a xlink:href="https://github.com/prometheus/promcon/issues/70" xlink:title="Announce diversity scholarship">
+<g id="a_node52"><a xlink:href="https://github.com/prometheus/promcon/issues/236" xlink:title="Announce diversity scholarship">
 <ellipse fill="#7fff00" stroke="#000000" cx="571.5859" cy="-913.7947" rx="122.3786" ry="18"/>
 <text text-anchor="middle" x="571.5859" y="-910.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Announce diversity scholarship</text>
 </a>
@@ -1039,14 +1042,14 @@
 <!-- announce_diversity&#45;&gt;create_diversity_form -->
 <g id="edge71" class="edge">
 <title>announce_diversity&#45;&gt;create_diversity_form</title>
-<path fill="none" stroke="#000000" d="M592.0074,-931.8621C617.2283,-953.0351 662.3625,-987.3162 707.5859,-1003.7947 797.9725,-1036.7298 1420.5762,-1095.3882 1686.0671,-1119.2555"/>
-<polygon fill="#000000" stroke="#000000" points="1685.8566,-1122.7506 1696.1295,-1120.1588 1686.4826,-1115.7787 1685.8566,-1122.7506"/>
+<path fill="none" stroke="#000000" d="M592.0121,-931.8493C617.2376,-953.0096 662.3763,-987.2783 707.5859,-1003.7947 879.725,-1066.6821 1411.3931,-1106.5676 1659.537,-1122.2344"/>
+<polygon fill="#000000" stroke="#000000" points="1659.491,-1125.7383 1669.6907,-1122.8719 1659.9297,-1118.7521 1659.491,-1125.7383"/>
 </g>
 <!-- select_diversity -->
 <g id="node53" class="node">
 <title>select_diversity</title>
-<g id="a_node53"><a xlink:href="https://github.com/prometheus/promcon/issues/71" xlink:title="Select diversity awardees">
-<ellipse fill="#7fff00" stroke="#000000" cx="982.5859" cy="-841.7947" rx="100.9827" ry="18"/>
+<g id="a_node53"><a xlink:href="https://github.com/prometheus/promcon/issues/237" xlink:title="Select diversity awardees">
+<ellipse fill="#ff7f50" stroke="#000000" cx="982.5859" cy="-841.7947" rx="100.9827" ry="18"/>
 <text text-anchor="middle" x="982.5859" y="-838.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Select diversity awardees</text>
 </a>
 </g>
@@ -1054,8 +1057,8 @@
 <!-- select_diversity&#45;&gt;close_sponsors -->
 <g id="edge72" class="edge">
 <title>select_diversity&#45;&gt;close_sponsors</title>
-<path fill="none" stroke="#000000" d="M1066.1495,-851.9578C1183.9418,-866.2839 1396.5982,-892.1475 1505.792,-905.4279"/>
-<polygon fill="#000000" stroke="#000000" points="1505.6801,-908.94 1516.0295,-906.673 1506.5253,-901.9912 1505.6801,-908.94"/>
+<path fill="none" stroke="#000000" d="M1062.7936,-852.6908C1167.0437,-866.8531 1347.2705,-891.3367 1444.9458,-904.6058"/>
+<polygon fill="#000000" stroke="#000000" points="1444.6184,-908.0934 1454.9985,-905.9715 1445.5607,-901.1571 1444.6184,-908.0934"/>
 </g>
 <!-- select_diversity&#45;&gt;announce_diversity -->
 <g id="edge73" class="edge">
@@ -1066,8 +1069,8 @@
 <!-- confirm_diversity -->
 <g id="node54" class="node">
 <title>confirm_diversity</title>
-<g id="a_node54"><a xlink:href="https://github.com/prometheus/promcon/issues/72" xlink:title="Confirm diversity awardees">
-<ellipse fill="#7fff00" stroke="#000000" cx="982.5859" cy="-697.7947" rx="109.381" ry="18"/>
+<g id="a_node54"><a xlink:href="https://github.com/prometheus/promcon/issues/238" xlink:title="Confirm diversity awardees">
+<ellipse fill="#ff7f50" stroke="#000000" cx="982.5859" cy="-697.7947" rx="109.381" ry="18"/>
 <text text-anchor="middle" x="982.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Confirm diversity awardees</text>
 </a>
 </g>
@@ -1099,7 +1102,7 @@
 <!-- diversity_reimbursements -->
 <g id="node58" class="node">
 <title>diversity_reimbursements</title>
-<g id="a_node58"><a xlink:href="https://github.com/prometheus/promcon/issues/76" xlink:title="Handle diversity reimbursements">
+<g id="a_node58"><a xlink:href="https://github.com/prometheus/promcon/issues/242" xlink:title="Handle diversity reimbursements">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1895.5859" cy="-625.7947" rx="128.8774" ry="18"/>
 <text text-anchor="middle" x="1895.5859" y="-622.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Handle diversity reimbursements</text>
 </a>
@@ -1114,22 +1117,22 @@
 <!-- create_feedback_form -->
 <g id="node61" class="node">
 <title>create_feedback_form</title>
-<g id="a_node61"><a xlink:href="https://github.com/prometheus/promcon/issues/101" xlink:title="Create feedback form">
-<ellipse fill="#ff7f50" stroke="#000000" cx="2043.5859" cy="-481.7947" rx="87.9851" ry="18"/>
-<text text-anchor="middle" x="2043.5859" y="-478.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create feedback form</text>
+<g id="a_node61"><a xlink:href="https://github.com/prometheus/promcon/issues/267" xlink:title="Create feedback form">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2032.5859" cy="-481.7947" rx="87.9851" ry="18"/>
+<text text-anchor="middle" x="2032.5859" y="-478.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Create feedback form</text>
 </a>
 </g>
 </g>
 <!-- create_feedback_form&#45;&gt;conduct_event -->
 <g id="edge95" class="edge">
 <title>create_feedback_form&#45;&gt;conduct_event</title>
-<path fill="none" stroke="#000000" d="M1980.5303,-494.3361C1913.671,-507.6341 1808.7821,-528.496 1742.6787,-541.6436"/>
-<polygon fill="#000000" stroke="#000000" points="1741.9407,-538.2218 1732.8156,-543.6054 1743.3062,-545.0873 1741.9407,-538.2218"/>
+<path fill="none" stroke="#000000" d="M1970.2386,-494.5839C1905.8189,-507.7982 1805.9406,-528.286 1742.1752,-541.3661"/>
+<polygon fill="#000000" stroke="#000000" points="1741.355,-537.9614 1732.2623,-543.3995 1742.7616,-544.8186 1741.355,-537.9614"/>
 </g>
 <!-- publish_feedback_form -->
 <g id="node62" class="node">
 <title>publish_feedback_form</title>
-<g id="a_node62"><a xlink:href="https://github.com/prometheus/promcon/issues/102" xlink:title="Publish feedback form">
+<g id="a_node62"><a xlink:href="https://github.com/prometheus/promcon/issues/268" xlink:title="Publish feedback form">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2223.5859" cy="-265.7947" rx="90.9839" ry="18"/>
 <text text-anchor="middle" x="2223.5859" y="-262.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Publish feedback form</text>
 </a>
@@ -1138,13 +1141,13 @@
 <!-- publish_feedback_form&#45;&gt;create_feedback_form -->
 <g id="edge96" class="edge">
 <title>publish_feedback_form&#45;&gt;create_feedback_form</title>
-<path fill="none" stroke="#000000" d="M2208.5488,-283.8392C2176.5723,-322.2111 2101.7402,-412.0096 2064.8762,-456.2463"/>
-<polygon fill="#000000" stroke="#000000" points="2062.1667,-454.0305 2058.4536,-463.9534 2067.5443,-458.5119 2062.1667,-454.0305"/>
+<path fill="none" stroke="#000000" d="M2207.6299,-283.8392C2173.6992,-322.2111 2094.2941,-412.0096 2055.1773,-456.2463"/>
+<polygon fill="#000000" stroke="#000000" points="2052.3645,-454.1436 2048.3622,-463.9534 2057.6085,-458.7806 2052.3645,-454.1436"/>
 </g>
 <!-- support_video_postprocessing -->
 <g id="node63" class="node">
 <title>support_video_postprocessing</title>
-<g id="a_node63"><a xlink:href="https://github.com/prometheus/promcon/issues/93" xlink:title="Support video post&#45;processing">
+<g id="a_node63"><a xlink:href="https://github.com/prometheus/promcon/issues/259" xlink:title="Support video post&#45;processing">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1750.5859" cy="-481.7947" rx="118.0794" ry="18"/>
 <text text-anchor="middle" x="1750.5859" y="-478.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Support video post&#45;processing</text>
 </a>
@@ -1159,7 +1162,7 @@
 <!-- upload_videos -->
 <g id="node64" class="node">
 <title>upload_videos</title>
-<g id="a_node64"><a xlink:href="https://github.com/prometheus/promcon/issues/94" xlink:title="Upload videos">
+<g id="a_node64"><a xlink:href="https://github.com/prometheus/promcon/issues/260" xlink:title="Upload videos">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1786.5859" cy="-409.7947" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="1786.5859" y="-406.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Upload videos</text>
 </a>
@@ -1174,7 +1177,7 @@
 <!-- add_video_metadata -->
 <g id="node65" class="node">
 <title>add_video_metadata</title>
-<g id="a_node65"><a xlink:href="https://github.com/prometheus/promcon/issues/95" xlink:title="Add video metadata">
+<g id="a_node65"><a xlink:href="https://github.com/prometheus/promcon/issues/261" xlink:title="Add video metadata">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1795.5859" cy="-337.7947" rx="82.5854" ry="18"/>
 <text text-anchor="middle" x="1795.5859" y="-334.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Add video metadata</text>
 </a>
@@ -1189,7 +1192,7 @@
 <!-- publish_videos -->
 <g id="node66" class="node">
 <title>publish_videos</title>
-<g id="a_node66"><a xlink:href="https://github.com/prometheus/promcon/issues/96" xlink:title="Publish videos">
+<g id="a_node66"><a xlink:href="https://github.com/prometheus/promcon/issues/262" xlink:title="Publish videos">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2052.5859" cy="-265.7947" rx="62.2891" ry="18"/>
 <text text-anchor="middle" x="2052.5859" y="-262.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Publish videos</text>
 </a>
@@ -1198,8 +1201,8 @@
 <!-- publish_videos&#45;&gt;video_paid -->
 <g id="edge101" class="edge">
 <title>publish_videos&#45;&gt;video_paid</title>
-<path fill="none" stroke="#000000" d="M2079.135,-282.1819C2113.6549,-305.7677 2169.5859,-352.7799 2169.5859,-409.7947 2169.5859,-409.7947 2169.5859,-409.7947 2169.5859,-481.7947 2169.5859,-526.0708 2451.8056,-583.0025 2601.6156,-610.1044"/>
-<polygon fill="#000000" stroke="#000000" points="2601.2654,-613.5976 2611.7274,-611.9248 2602.5057,-606.7083 2601.2654,-613.5976"/>
+<path fill="none" stroke="#000000" d="M2075.0011,-282.615C2104.7565,-307.0542 2153.5859,-355.4401 2153.5859,-409.7947 2153.5859,-409.7947 2153.5859,-409.7947 2153.5859,-481.7947 2153.5859,-527.4063 2445.3997,-583.8575 2599.5954,-610.5027"/>
+<polygon fill="#000000" stroke="#000000" points="2599.0999,-613.9687 2609.5484,-612.2142 2600.2863,-607.07 2599.0999,-613.9687"/>
 </g>
 <!-- publish_videos&#45;&gt;add_video_metadata -->
 <g id="edge100" class="edge">
@@ -1210,7 +1213,7 @@
 <!-- collect_slides -->
 <g id="node67" class="node">
 <title>collect_slides</title>
-<g id="a_node67"><a xlink:href="https://github.com/prometheus/promcon/issues/98" xlink:title="Collect talk slides from speakers">
+<g id="a_node67"><a xlink:href="https://github.com/prometheus/promcon/issues/264" xlink:title="Collect talk slides from speakers">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1845.5859" cy="-265.7947" rx="126.978" ry="18"/>
 <text text-anchor="middle" x="1845.5859" y="-262.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Collect talk slides from speakers</text>
 </a>
@@ -1225,7 +1228,7 @@
 <!-- add_slides_to_videos -->
 <g id="node68" class="node">
 <title>add_slides_to_videos</title>
-<g id="a_node68"><a xlink:href="https://github.com/prometheus/promcon/issues/100" xlink:title="Add slides to videos">
+<g id="a_node68"><a xlink:href="https://github.com/prometheus/promcon/issues/266" xlink:title="Add slides to videos">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1689.5859" cy="-193.7947" rx="83.3857" ry="18"/>
 <text text-anchor="middle" x="1689.5859" y="-190.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Add slides to videos</text>
 </a>
@@ -1246,7 +1249,7 @@
 <!-- add_slides_to_website -->
 <g id="node69" class="node">
 <title>add_slides_to_website</title>
-<g id="a_node69"><a xlink:href="https://github.com/prometheus/promcon/issues/99" xlink:title="Add slides to website">
+<g id="a_node69"><a xlink:href="https://github.com/prometheus/promcon/issues/265" xlink:title="Add slides to website">
 <ellipse fill="#ff7f50" stroke="#000000" cx="1877.5859" cy="-193.7947" rx="87.1846" ry="18"/>
 <text text-anchor="middle" x="1877.5859" y="-190.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Add slides to website</text>
 </a>
@@ -1261,7 +1264,7 @@
 <!-- post_event_blog_post -->
 <g id="node70" class="node">
 <title>post_event_blog_post</title>
-<g id="a_node70"><a xlink:href="https://github.com/prometheus/promcon/issues/63" xlink:title="Post&#45;event blog post">
+<g id="a_node70"><a xlink:href="https://github.com/prometheus/promcon/issues/229" xlink:title="Post&#45;event blog post">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2223.5859" cy="-193.7947" rx="83.3857" ry="18"/>
 <text text-anchor="middle" x="2223.5859" y="-190.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Post&#45;event blog post</text>
 </a>
@@ -1282,7 +1285,7 @@
 <!-- post_event_email -->
 <g id="node71" class="node">
 <title>post_event_email</title>
-<g id="a_node71"><a xlink:href="https://github.com/prometheus/promcon/issues/65" xlink:title="Post&#45;event email">
+<g id="a_node71"><a xlink:href="https://github.com/prometheus/promcon/issues/231" xlink:title="Post&#45;event email">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2052.5859" cy="-193.7947" rx="70.3881" ry="18"/>
 <text text-anchor="middle" x="2052.5859" y="-190.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Post&#45;event email</text>
 </a>
@@ -1303,88 +1306,91 @@
 <!-- publishing_done -->
 <g id="node72" class="node">
 <title>publishing_done</title>
-<g id="a_node72"><a xlink:href="https://github.com/prometheus/promcon/issues/103" xlink:title="Done with public work">
-<ellipse fill="#ff7f50" stroke="#000000" cx="1964.5859" cy="-121.7947" rx="92.8835" ry="18"/>
-<text text-anchor="middle" x="1964.5859" y="-118.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Done with public work</text>
+<g id="a_node72"><a xlink:href="https://github.com/prometheus/promcon/issues/269" xlink:title="Done with public work">
+<ellipse fill="#ff7f50" stroke="#000000" cx="1965.5859" cy="-121.7947" rx="92.8835" ry="18"/>
+<text text-anchor="middle" x="1965.5859" y="-118.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Done with public work</text>
 </a>
 </g>
 </g>
 <!-- publishing_done&#45;&gt;tweet_sponsors_after -->
 <g id="edge112" class="edge">
 <title>publishing_done&#45;&gt;tweet_sponsors_after</title>
-<path fill="none" stroke="#000000" d="M1878.9837,-128.8134C1776.6077,-138.0553 1616.5752,-155.5277 1597.5859,-175.7947 1544.8812,-232.0456 1559.6794,-332.8945 1571.0079,-381.7467"/>
-<polygon fill="#000000" stroke="#000000" points="1567.6468,-382.737 1573.4175,-391.6223 1574.4473,-381.0777 1567.6468,-382.737"/>
+<path fill="none" stroke="#000000" d="M1879.7514,-128.7973C1777.0974,-138.0224 1616.6298,-155.4774 1597.5859,-175.7947 1544.8702,-232.0353 1559.6736,-332.8891 1571.0056,-381.7446"/>
+<polygon fill="#000000" stroke="#000000" points="1567.6448,-382.7359 1573.416,-391.6209 1574.4452,-381.0762 1567.6448,-382.7359"/>
 </g>
 <!-- publishing_done&#45;&gt;add_slides_to_videos -->
 <g id="edge113" class="edge">
 <title>publishing_done&#45;&gt;add_slides_to_videos</title>
-<path fill="none" stroke="#000000" d="M1909.2664,-136.2784C1864.0197,-148.1248 1800.0201,-164.881 1752.7639,-177.2535"/>
-<polygon fill="#000000" stroke="#000000" points="1751.7343,-173.9051 1742.9469,-179.8238 1753.5073,-180.6768 1751.7343,-173.9051"/>
+<path fill="none" stroke="#000000" d="M1910.0652,-136.2784C1864.654,-148.1248 1800.4217,-164.881 1752.9937,-177.2535"/>
+<polygon fill="#000000" stroke="#000000" points="1751.9336,-173.9129 1743.1409,-179.8238 1753.7006,-180.6862 1751.9336,-173.9129"/>
 </g>
 <!-- publishing_done&#45;&gt;add_slides_to_website -->
 <g id="edge114" class="edge">
 <title>publishing_done&#45;&gt;add_slides_to_website</title>
-<path fill="none" stroke="#000000" d="M1943.0803,-139.5925C1932.1234,-148.6602 1918.64,-159.8189 1906.761,-169.6498"/>
-<polygon fill="#000000" stroke="#000000" points="1904.3166,-167.1296 1898.8442,-176.2017 1908.7796,-172.5223 1904.3166,-167.1296"/>
+<path fill="none" stroke="#000000" d="M1943.8331,-139.5925C1932.7503,-148.6602 1919.1119,-159.8189 1907.0964,-169.6498"/>
+<polygon fill="#000000" stroke="#000000" points="1904.6118,-167.1604 1899.0885,-176.2017 1909.0445,-172.5781 1904.6118,-167.1604"/>
 </g>
 <!-- publishing_done&#45;&gt;post_event_blog_post -->
 <g id="edge110" class="edge">
 <title>publishing_done&#45;&gt;post_event_blog_post</title>
-<path fill="none" stroke="#000000" d="M2017.9369,-136.6258C2059.9267,-148.2987 2118.4825,-164.5768 2162.3765,-176.7789"/>
-<polygon fill="#000000" stroke="#000000" points="2161.4984,-180.1675 2172.0705,-179.4738 2163.3733,-173.4232 2161.4984,-180.1675"/>
+<path fill="none" stroke="#000000" d="M2018.7309,-136.6258C2060.5586,-148.2987 2118.8884,-164.5768 2162.6128,-176.7789"/>
+<polygon fill="#000000" stroke="#000000" points="2161.6966,-180.1569 2172.2694,-179.4738 2163.5782,-173.4145 2161.6966,-180.1569"/>
 </g>
 <!-- publishing_done&#45;&gt;post_event_email -->
 <g id="edge111" class="edge">
 <title>publishing_done&#45;&gt;post_event_email</title>
-<path fill="none" stroke="#000000" d="M1986.3387,-139.5925C1997.5043,-148.7279 2011.2636,-159.9855 2023.3442,-169.8697"/>
-<polygon fill="#000000" stroke="#000000" points="2021.4311,-172.8266 2031.387,-176.4501 2025.8637,-167.4088 2021.4311,-172.8266"/>
+<path fill="none" stroke="#000000" d="M1987.0916,-139.5925C1998.1302,-148.7279 2011.7332,-159.9855 2023.6765,-169.8697"/>
+<polygon fill="#000000" stroke="#000000" points="2021.6924,-172.7708 2031.6279,-176.4501 2026.1554,-167.378 2021.6924,-172.7708"/>
 </g>
 <!-- conference_reimbursements -->
 <g id="node73" class="node">
 <title>conference_reimbursements</title>
-<ellipse fill="none" stroke="#000000" cx="3272.5859" cy="-697.7947" rx="110.4804" ry="18"/>
-<text text-anchor="middle" x="3272.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">conference_reimbursements</text>
+<g id="a_node73"><a xlink:href="https://github.com/prometheus/promcon/issues/270" xlink:title="Reimburse expenses">
+<ellipse fill="#ff7f50" stroke="#000000" cx="3245.5859" cy="-697.7947" rx="83.3857" ry="18"/>
+<text text-anchor="middle" x="3245.5859" y="-694.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Reimburse expenses</text>
+</a>
+</g>
 </g>
 <!-- conference_reimbursements&#45;&gt;order_schedule_flyer -->
 <g id="edge116" class="edge">
 <title>conference_reimbursements&#45;&gt;order_schedule_flyer</title>
-<path fill="none" stroke="#000000" d="M3219.3991,-713.6845C3181.1906,-725.0995 3129.6877,-740.4863 3090.2788,-752.2599"/>
-<polygon fill="#000000" stroke="#000000" points="3089.1153,-748.9546 3080.5357,-755.1707 3091.1191,-755.6616 3089.1153,-748.9546"/>
+<path fill="none" stroke="#000000" d="M3200.4635,-712.9761C3167.1731,-724.1766 3121.7072,-739.4735 3086.3367,-751.3739"/>
+<polygon fill="#000000" stroke="#000000" points="3085.0084,-748.1279 3076.6466,-754.6341 3087.2407,-754.7625 3085.0084,-748.1279"/>
 </g>
 <!-- conference_reimbursements&#45;&gt;order_stage_signage -->
 <g id="edge117" class="edge">
 <title>conference_reimbursements&#45;&gt;order_stage_signage</title>
-<path fill="none" stroke="#000000" d="M3192.9503,-710.3525C3179.4945,-712.2986 3165.6545,-714.1918 3152.5859,-715.7947 2985.5202,-736.2862 2942.1056,-727.2578 2775.5859,-751.7947 2768.5413,-752.8327 2761.2137,-754.0569 2753.9165,-755.3705"/>
+<path fill="none" stroke="#000000" d="M3185.1965,-710.3552C3174.3691,-712.358 3163.1661,-714.2692 3152.5859,-715.7947 2985.9909,-739.8144 2942.1056,-727.2578 2775.5859,-751.7947 2768.5413,-752.8327 2761.2137,-754.0569 2753.9165,-755.3705"/>
 <polygon fill="#000000" stroke="#000000" points="2753.2076,-751.9422 2744.0141,-757.2081 2754.4849,-758.8247 2753.2076,-751.9422"/>
 </g>
 <!-- conference_reimbursements&#45;&gt;order_bags -->
 <g id="edge115" class="edge">
 <title>conference_reimbursements&#45;&gt;order_bags</title>
-<path fill="none" stroke="#000000" d="M3250.3387,-715.5925C3238.5534,-725.0207 3223.9426,-736.7094 3211.3097,-746.8157"/>
-<polygon fill="#000000" stroke="#000000" points="3208.9655,-744.2088 3203.3432,-753.1889 3213.3384,-749.6749 3208.9655,-744.2088"/>
+<path fill="none" stroke="#000000" d="M3230.0129,-715.5925C3222.3268,-724.3765 3212.9239,-735.1227 3204.5234,-744.7233"/>
+<polygon fill="#000000" stroke="#000000" points="3201.7135,-742.6195 3197.7624,-752.4501 3206.9815,-747.2291 3201.7135,-742.6195"/>
 </g>
 <!-- conference_reimbursements&#45;&gt;order_stickers -->
 <g id="edge118" class="edge">
 <title>conference_reimbursements&#45;&gt;order_stickers</title>
-<path fill="none" stroke="#000000" d="M3282.1749,-715.9633C3286.483,-724.1259 3291.6545,-733.9247 3296.3978,-742.912"/>
-<polygon fill="#000000" stroke="#000000" points="3293.3686,-744.6711 3301.1316,-751.8813 3299.5593,-741.4038 3293.3686,-744.6711"/>
+<path fill="none" stroke="#000000" d="M3261.6533,-715.5925C3269.5247,-724.3115 3279.1412,-734.9636 3287.7592,-744.5097"/>
+<polygon fill="#000000" stroke="#000000" points="3285.4043,-747.1243 3294.7033,-752.2017 3290.6002,-742.4336 3285.4043,-747.1243"/>
 </g>
 <!-- conference_reimbursements&#45;&gt;order_tshirts -->
 <g id="edge119" class="edge">
 <title>conference_reimbursements&#45;&gt;order_tshirts</title>
-<path fill="none" stroke="#000000" d="M3313.8701,-714.4939C3341.0635,-725.4935 3376.6946,-739.9061 3404.7637,-751.2598"/>
-<polygon fill="#000000" stroke="#000000" points="3403.7676,-754.6324 3414.3504,-755.1376 3406.3925,-748.1432 3403.7676,-754.6324"/>
+<path fill="none" stroke="#000000" d="M3289.3121,-713.1522C3322.169,-724.6922 3367.1956,-740.5064 3401.3231,-752.4926"/>
+<polygon fill="#000000" stroke="#000000" points="3400.494,-755.911 3411.0888,-755.9225 3402.8136,-749.3065 3400.494,-755.911"/>
 </g>
 <!-- conference_reimbursements&#45;&gt;order_other_swag -->
 <g id="edge120" class="edge">
 <title>conference_reimbursements&#45;&gt;order_other_swag</title>
-<path fill="none" stroke="#000000" d="M3343.0064,-711.7624C3404.2626,-723.9124 3492.947,-741.5027 3556.6005,-754.1282"/>
-<polygon fill="#000000" stroke="#000000" points="3556.1037,-757.5977 3566.5936,-756.1103 3557.4656,-750.7315 3556.1037,-757.5977"/>
+<path fill="none" stroke="#000000" d="M3309.1142,-709.523C3375.8024,-721.8347 3480.8906,-741.2356 3553.7488,-754.6863"/>
+<polygon fill="#000000" stroke="#000000" points="3553.3389,-758.1697 3563.8082,-756.5434 3554.6098,-751.286 3553.3389,-758.1697"/>
 </g>
 <!-- accounts_settled -->
 <g id="node74" class="node">
 <title>accounts_settled</title>
-<g id="a_node74"><a xlink:href="https://github.com/prometheus/promcon/issues/104" xlink:title="Settled all accounts">
+<g id="a_node74"><a xlink:href="https://github.com/prometheus/promcon/issues/271" xlink:title="Settled all accounts">
 <ellipse fill="#ff7f50" stroke="#000000" cx="2538.5859" cy="-553.7947" rx="79.0865" ry="18"/>
 <text text-anchor="middle" x="2538.5859" y="-550.0947" font-family="Times,serif" font-size="14.00" fill="#000000">Settled all accounts</text>
 </a>
@@ -1393,8 +1399,8 @@
 <!-- accounts_settled&#45;&gt;sponsors_paid -->
 <g id="edge123" class="edge">
 <title>accounts_settled&#45;&gt;sponsors_paid</title>
-<path fill="none" stroke="#000000" d="M2535.7301,-572.1125C2524.6261,-640.9195 2482.1264,-882.5158 2425.5859,-931.7947 2417.8211,-938.5623 2304.9213,-958.2688 2222.5738,-971.9041"/>
-<polygon fill="#000000" stroke="#000000" points="2221.9883,-968.4533 2212.692,-973.5355 2223.1286,-975.3598 2221.9883,-968.4533"/>
+<path fill="none" stroke="#000000" d="M2535.1905,-572.0891C2522.0678,-640.8119 2472.5534,-882.1436 2415.5859,-931.7947 2407.8211,-938.5623 2294.9213,-958.2688 2212.5738,-971.9041"/>
+<polygon fill="#000000" stroke="#000000" points="2211.9883,-968.4533 2202.692,-973.5355 2213.1286,-975.3598 2211.9883,-968.4533"/>
 </g>
 <!-- accounts_settled&#45;&gt;video_paid -->
 <g id="edge122" class="edge">
@@ -1411,26 +1417,29 @@
 <!-- accounts_settled&#45;&gt;conference_reimbursements -->
 <g id="edge124" class="edge">
 <title>accounts_settled&#45;&gt;conference_reimbursements</title>
-<path fill="none" stroke="#000000" d="M2600.6492,-565.1163C2659.2066,-575.8634 2749.4257,-592.5896 2827.5859,-607.7947 2956.0976,-632.7951 3105.1788,-663.2412 3194.0378,-681.542"/>
-<polygon fill="#000000" stroke="#000000" points="3193.538,-685.0125 3204.0386,-683.6028 3194.9508,-678.1565 3193.538,-685.0125"/>
+<path fill="none" stroke="#000000" d="M2600.9754,-564.9434C2659.5714,-575.5347 2749.6475,-592.1258 2827.5859,-607.7947 2951.3683,-632.6801 3095.1847,-664.2261 3177.7734,-682.5971"/>
+<polygon fill="#000000" stroke="#000000" points="3177.0145,-686.0138 3187.5362,-684.7708 3178.5359,-679.1811 3177.0145,-686.0138"/>
 </g>
 <!-- done -->
 <g id="node75" class="node">
 <title>done</title>
-<ellipse fill="none" stroke="#000000" cx="2233.5859" cy="-33.8973" rx="29.8071" ry="29.8071"/>
-<ellipse fill="none" stroke="#000000" cx="2233.5859" cy="-33.8973" rx="33.795" ry="33.795"/>
-<text text-anchor="middle" x="2233.5859" y="-30.1973" font-family="Times,serif" font-size="14.00" fill="#000000">Done</text>
+<g id="a_node75"><a xlink:href="https://github.com/prometheus/promcon/issues/198" xlink:title="Done">
+<ellipse fill="#ff7f50" stroke="#000000" cx="2110.5859" cy="-33.8973" rx="29.8071" ry="29.8071"/>
+<ellipse fill="none" stroke="#000000" cx="2110.5859" cy="-33.8973" rx="33.795" ry="33.795"/>
+<text text-anchor="middle" x="2110.5859" y="-30.1973" font-family="Times,serif" font-size="14.00" fill="#000000">Done</text>
+</a>
+</g>
 </g>
 <!-- done&#45;&gt;publishing_done -->
 <g id="edge125" class="edge">
 <title>done&#45;&gt;publishing_done</title>
-<path fill="none" stroke="#000000" d="M2201.1382,-44.4998C2156.7139,-59.0157 2076.2563,-85.3057 2021.6406,-103.1517"/>
-<polygon fill="#000000" stroke="#000000" points="2020.5142,-99.8376 2012.0959,-106.2705 2022.6885,-106.4914 2020.5142,-99.8376"/>
+<path fill="none" stroke="#000000" d="M2081.5915,-51.4734C2058.9207,-65.2162 2027.2435,-84.4186 2002.7181,-99.2856"/>
+<polygon fill="#000000" stroke="#000000" points="2000.7731,-96.3717 1994.036,-104.5486 2004.4018,-102.3578 2000.7731,-96.3717"/>
 </g>
 <!-- done&#45;&gt;accounts_settled -->
 <g id="edge126" class="edge">
 <title>done&#45;&gt;accounts_settled</title>
-<path fill="none" stroke="#000000" d="M2266.3857,-42.6726C2324.7541,-60.5 2440.5859,-106.8335 2440.5859,-193.7947 2440.5859,-193.7947 2440.5859,-193.7947 2440.5859,-409.7947 2440.5859,-458.7201 2479.7281,-503.3199 2508.5376,-529.5203"/>
+<path fill="none" stroke="#000000" d="M2143.434,-42.3093C2226.9037,-64.6433 2440.5859,-128.222 2440.5859,-193.7947 2440.5859,-193.7947 2440.5859,-193.7947 2440.5859,-409.7947 2440.5859,-458.7201 2479.7281,-503.3199 2508.5376,-529.5203"/>
 <polygon fill="#000000" stroke="#000000" points="2506.5337,-532.4198 2516.3482,-536.4105 2511.1645,-527.1704 2506.5337,-532.4198"/>
 </g>
 </g>
