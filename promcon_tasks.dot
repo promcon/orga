@@ -91,6 +91,7 @@ digraph PromCon {
   publish_feedback_form [label="Publish feedback form"]
 
   publishing_done [label="Done with public work"]
+  conference_reimbursements [label="Reimburse expenses"]
   accounts_settled [label="Settled all accounts"]
 
 
